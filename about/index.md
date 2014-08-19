@@ -1,25 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About me
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: follow.jpg
+  credit: Enrique Comba Riepenhausen
+  creditlink: http://flickr.com/ecomba
 ---
+I help people, companies and dreamers to achieve their potential.
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I co-founded a great software boutique, [patheleven](http://patheleven.com) 
 
-## Minimal Mistakes is all about:
+If you have any other questions or just want to drop me a line, please don’t hesitate to do so, I am open to suggestions and ideas!
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Currently I work as the Head of Education at Makers Academy helping people change their careers and become great beginners!
