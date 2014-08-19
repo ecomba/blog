@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Enrique Comba Riepenhausen
 locale:           en_US
-url:              http://localhost:4000
+url:              http://ecomba.github.io
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Enrique Comba Riepenhausen
+  avatar: https://pbs.twimg.com/profile_images/471057951869132800/rD6dfzin.jpeg
+  bio: "Titan, bringer of fire, maker of makers at @makersacademy, allergic to eagles"
+  email: ecomba@makersacademy.com
   disqus-shortname: 
-  twitter: #username
+  twitter: ecomba
   facebook: #username
   google:
     plus: #username
@@ -40,10 +40,10 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: ecomba
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: ecomba
+  instagram: ecomba
   lastfm: #username
   tumblr: #username
   pinterest: #username
