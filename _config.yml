@@ -1,55 +1,24 @@
-# Site wide configuration
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-title:            Enrique Comba Riepenhausen
-locale:           en_US
-url:              http://ecomba.github.io
+# Permalinks
+permalink:        pretty
 
+# Setup
+title:            Lanyon
+tagline:          'A Jekyll theme'
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://lanyon.getpoole.com
 
-# Jekyll configuration
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+paginate:         5
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+# Custom vars
+version:          2.0.0
 
-
-# Site owner
-owner:
-  name: Enrique Comba Riepenhausen
-  avatar: https://avatars3.githubusercontent.com/u/55259?v=2&s=460
-  bio: "Titan, bringer of fire, maker of makers at @makersacademy, allergic to eagles"
-  email: ecomba@makersacademy.com
-  disqus-shortname: 
-  twitter: ecomba
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: ecomba
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: ecomba
-  instagram: ecomba
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+github:
+  repo:           https://github.com/poole/lanyon

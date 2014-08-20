@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lanyon</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-08-20T09:48:51+01:00</updated>
+ <id>http://lanyon.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>I am here</title>
+   <link href="http://lanyon.getpoole.com/2013/10/17/i-am-here/"/>
+   <updated>2013-10-17T00:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/2013/10/17/i-am-here</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;We could learn a lot from crayons: some are sharp, 
+some are pretty, some are dull, while others bright, 
+some have weird names, but they have all learned to 
+live in the same box.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Finally I got my new blogging engine &lt;a href=&quot;http://ghost.org&quot;&gt;ghost&lt;/a&gt; up and 
+running. I pretended to have a more &lt;em&gt;dramatic&lt;/em&gt; blog entry as my first one, 
+but to be honest I am so excited about having this thing working and running 
+after I have put in so much effort into it the last couple of days that I 
+just needed to get something out.&lt;/p&gt;
+
+&lt;p&gt;Anyhow, in the (&lt;em&gt;hopefully&lt;/em&gt; near) future I will post my ideas and thoughts 
+about many software related (and unrelated) things...&lt;/p&gt;
+
+&lt;p&gt;Wish me luck!&lt;/p&gt;
+
+&lt;p&gt;E!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
