@@ -4,13 +4,34 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-20T09:56:17+01:00</updated>
+ <updated>2014-08-20T09:59:51+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>You cannot teach someone to code in n-weeks</title>
+   <link href="http://ecomba.pro/2013/10/18/cannot-teach/"/>
+   <updated>2013-10-18T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2013/10/18/cannot-teach</id>
+   <content type="html">&lt;p&gt;You read that right. Surprised? Challenged? &lt;/p&gt;
+
+&lt;p&gt;I hear those words a lot from people not involved in helping people to learn how to code. It seems, to them, that what we are doing is something that cannot be accomplished; the human brain appears (&lt;em&gt;to them again&lt;/em&gt;) not to be capable of processing the sheer amount of information needed to become a developer.&lt;/p&gt;
+
+&lt;p&gt;Having done this now for some while I could not disagree more with the title of this blogpost.&lt;/p&gt;
+
+&lt;p&gt;I have seen people developing skills that they did not have before on a weekly basis. Makers that only used their computers to entertain themselves suddenly are capable, within a few weeks (&lt;em&gt;three to be exact&lt;/em&gt;) to develop a domain model with objects interacting with each other, &lt;strong&gt;TEST FIRST!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In fact, in the second week of learning how to code, I see people solving &lt;a href=&quot;https://en.wikipedia.org/wiki/Kata_(programming)&quot;&gt;coding katas&lt;/a&gt; (&lt;em&gt;like the &lt;a href=&quot;http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz&quot;&gt;FizzBuzz&lt;/a&gt; or the &lt;a href=&quot;http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals&quot;&gt;Roman Numerals&lt;/a&gt; katas&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The human brain is capable of absorbing and processing huge amounts of information, we do that every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our challenge&lt;/strong&gt;: &lt;em&gt;finding and perfecting ways to tap into that potential in order to unleash the full learning capacity of the human brain&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>I am here</title>
