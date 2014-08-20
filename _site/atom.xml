@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-08-20T09:48:51+01:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <title>Enrique Comba Riepenhausen</title>
+ <link href="http://ecomba.pro/atom.xml" rel="self"/>
+ <link href="http://ecomba.pro/"/>
+ <updated>2014-08-20T09:56:17+01:00</updated>
+ <id>http://ecomba.pro</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>I am here</title>
-   <link href="http://lanyon.getpoole.com/2013/10/17/i-am-here/"/>
+   <link href="http://ecomba.pro/2013/10/17/i-am-here/"/>
    <updated>2013-10-17T00:00:00+01:00</updated>
-   <id>http://lanyon.getpoole.com/2013/10/17/i-am-here</id>
+   <id>http://ecomba.pro/2013/10/17/i-am-here</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;We could learn a lot from crayons: some are sharp, 
 some are pretty, some are dull, while others bright, 
