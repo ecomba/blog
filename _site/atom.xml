@@ -4,13 +4,124 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-20T09:59:51+01:00</updated>
+ <updated>2014-08-20T11:48:15+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Why I teach at Makers Academy</title>
+   <link href="http://ecomba.pro/2013/11/10/why-makers/"/>
+   <updated>2013-11-10T00:00:00+00:00</updated>
+   <id>http://ecomba.pro/2013/11/10/why-makers</id>
+   <content type="html">&lt;p&gt;I have been asked a couple of times now why I teach at &lt;a href=&quot;http://makersacademy.com&quot;&gt;Makers Academy&lt;/a&gt; instead of making &lt;em&gt;a lot of money&lt;/em&gt; with my skills.&lt;/p&gt;
+
+&lt;p&gt;I could write about many reasons that this is so; &lt;a href=&quot;http://twitter.com/shadchnev&quot;&gt;being&lt;/a&gt; &lt;a href=&quot;http://twitter.com/startuprob&quot;&gt;part&lt;/a&gt; &lt;a href=&quot;http://twitter.com/JordanPoulton&quot;&gt;of&lt;/a&gt; &lt;a href=&quot;http://twitter.com/alexpeattie&quot;&gt;an&lt;/a&gt; &lt;a href=&quot;http://twitter.com/anitacanita&quot;&gt;awesome&lt;/a&gt; &lt;a href=&quot;http://twitter.com/rubenkostucki&quot;&gt;team&lt;/a&gt; &lt;a href=&quot;http://twitter.com/Jamedjo&quot;&gt;helps&lt;/a&gt;, but that is not the main reason.&lt;/p&gt;
+
+&lt;p&gt;Last friday, at the &lt;a href=&quot;http://alumni.makersacademy.com/cohorts/august&quot;&gt;graduation&lt;/a&gt;, magic happened while having an inocent conversation with the mother of one of our graduates; a humbling moment; a compliment; an inspiring gesture.&lt;/p&gt;
+
+&lt;p&gt;There are many different reasons that make teaching a fullfilling calling, but that conversation trumped everything so far:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In 12 weeks you have achieved what I, as a mother, haven&amp;#39;t in a lifetime; thank you!
+~ mom&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Use your imagination</title>
+   <link href="http://ecomba.pro/2013/10/27/use-your-imagination/"/>
+   <updated>2013-10-27T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2013/10/27/use-your-imagination</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;The true sign of intelligence is not knowledge but imagination. ~ Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the hardest thing for a learner is to start being able to use his imagination in order to apply his knowledge. &lt;/p&gt;
+
+&lt;p&gt;When we learn something new, we learn a way of doing something, a syntax. This information will not stick long in our heads if we don&amp;#39;t practice, practice, practice the newly acquired skill a lot while it is still fresh in our heads. Once we do though something interesting starts to happen. Our brain starts recognising patterns and weaving new ideas and ways we could accomplish the same thing or improve over it.&lt;/p&gt;
+
+&lt;p&gt;A musician learns to play note by note a song. It sounds boring and lifeless, even if he hits every note perfectly well. But as he practices over and over he starts making that song his; a piece of his soul wanders into his instrument and the notes he is playing, art happens.&lt;/p&gt;
+
+&lt;p&gt;When you learn something novell, go over what you have learned, a million times and over again, but then, let your imagination and your playfulness have a go at it and create new pathways and patterns around the acquired knowledge.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Agile & XP Basics</title>
+   <link href="http://ecomba.pro/2013/10/22/agile-xp/"/>
+   <updated>2013-10-22T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2013/10/22/agile-xp</id>
+   <content type="html">&lt;p&gt;terday I gave a little talk at &lt;a href=&quot;http://makersacademy.com&quot;&gt;Makers Academy&lt;/a&gt; on &lt;em&gt;the basics&lt;/em&gt; of agile and specially XP.&lt;/p&gt;
+
+&lt;p&gt;You can find it on &lt;a href=&quot;http://speakerdeck.com&quot;&gt;Speaker Deck&lt;/a&gt; &lt;a href=&quot;https://speakerdeck.com/ecomba/agile-and-xp-basics&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Writing for the next developer</title>
+   <link href="http://ecomba.pro/2013/10/19/the-next-developer/"/>
+   <updated>2013-10-19T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2013/10/19/the-next-developer</id>
+   <content type="html">&lt;p&gt;The other day I was going through some code with &lt;a href=&quot;https://twitter.com/shadchnev&quot;&gt;Evgeny&lt;/a&gt; and we had a discussion about the &lt;em&gt;&lt;a href=&quot;http://stackoverflow.com/questions/954570/definition-of-clean-code&quot;&gt;cleanness&lt;/a&gt;&lt;/em&gt; of it. The code in question was by no means wrong or anything, but it &lt;em&gt;felt&lt;/em&gt; strange.&lt;/p&gt;
+
+&lt;p&gt;When you spend years in a profession you have an intuition about what can be done better and what feels wrong (&lt;em&gt;we usually call this &lt;a href=&quot;https://en.wikipedia.org/wiki/Code_smell&quot;&gt;code smells&lt;/a&gt;&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Anyhow, let&amp;#39;s go back to the code in question, shall we?&lt;/p&gt;
+
+&lt;p&gt;Imagine you have a piece of code that allows a person to rent a bike from a docking station (&lt;em&gt;in London we call these things &lt;a href=&quot;https://en.wikipedia.org/wiki/Barclays_Cycle_Hire&quot;&gt;Boris Bikes&lt;/a&gt;&lt;/em&gt;). The docking station would look something like this:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;class DockingStation
+  def rent(bike)
+    # something interesting happens here to return a bike
+  end
+end  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Looking closer at that piece of code we notice that the caller will have to know about the existance of a given bike inside that station for him to actually be able to rent the bike. Now that we have decided for this interface we have to provide a means for the caller to at least see the bikes in the docking station:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;class DockingStation
+  def available_bikes
+    # return collection of the bikes
+    # in the station
+  end
+end  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If you look at this from the point of view of a real life scenario, a person wanting to rent a bike will most definitely &lt;em&gt;choose&lt;/em&gt; his bike from the ones he can see on the station.&lt;/p&gt;
+
+&lt;p&gt;Also, if you look at this problem from the point of view that a bike is stored in a database and will have to be pulled from the database in order for it to be rented it might look as it is perfectly OK.&lt;/p&gt;
+
+&lt;p&gt;So far so good... &lt;strong&gt;What&amp;#39;s my problem with this code then?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The issue I have with this approach is the amount of &lt;em&gt;knowledge&lt;/em&gt; the caller has to have about the inner representation of the docking station in order to rent &lt;em&gt;a bike&lt;/em&gt; from a docking station.&lt;/p&gt;
+
+&lt;p&gt;Most codebases are not build around the notion of the &lt;a href=&quot;https://en.wikipedia.org/wiki/User_experience_design&quot;&gt;user experience&lt;/a&gt; the next developer will have with the code we produce. How easy will it be to use? How much will we have to read in order to understand how to use this code? Will it make us happy?&lt;/p&gt;
+
+&lt;p&gt;I spend a lot of time thinking in those terms when I am coding, I am not only solving a problem, I am making conscious choices about how my code will be used and what you can expect from it.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s look a a different approach to this problem; &lt;em&gt;renting a bike from a docking station&lt;/em&gt;. What the caller to the docking station ultimately wants to do is &lt;em&gt;renting a bike&lt;/em&gt;. He doesn&amp;#39;t want to deal with any specifics of the docking station, it&amp;#39;s not his responsiblilty:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;class DockingStation
+  def rent_bike
+    # do something to return an available bike
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Here we have decided to include what was the argument to the method into the methods signature. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What have we achived here?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;First of all we don&amp;#39;t need to pass in an argument to the method anymore, which makes the code simpler to use. &lt;/p&gt;
+
+&lt;p&gt;Secondly, by including what was the arguments name in the previous example in the method signature, we have now a method that &lt;a href=&quot;http://c2.com/cgi/wiki?IntentionRevealingNames&quot;&gt;reveals its intent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And finally the caller no longer has to know &lt;em&gt;how&lt;/em&gt; things are done inside the docking station; the inner structure is left to be the dockings stations responsability. This actually has many advantages as we can change that inner structure any time without affecting any code that uses our docking station.&lt;/p&gt;
+
+&lt;p&gt;But the most important lesson here is that we have made the life of the next developer easier; we have thought about what he will experience and feel while using our docking station. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It&amp;#39;s your turn!&lt;/strong&gt; &lt;em&gt;Next time you are writing code think about what the next developer will feel and experience when interacting with your code.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>You cannot teach someone to code in n-weeks</title>
