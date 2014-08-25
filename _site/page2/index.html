@@ -110,14 +110,7 @@ by fearing to attempt.  </p>
 <p>~ William Shakespeare</p>
 </blockquote>
 
-<p>When you push yourself out of your comfort zone you often confront yourself with your <em>resistance</em>. It shouts at you and makes you doubt about your ability, your intelligence, your <em>self</em>.</p>
-
-<p>The biggest fight for the learner it the fight with his inner self, the countless battles fought with <em>resistance</em> in order to step outside your <em>comfort zone</em>.</p>
-
-<p>Your <em>resistance</em> is the devil on your shoulder telling you that you can never truly learn that hard new skill you want to acquire. It tells you that the hard work you are putting into learning does not matter. That the knowledge that is clamoring to leap out of you will always be restrained by social pressure, time, and the ringing words of all those who have laughed at your in the past.</p>
-
-<p><strong>Fight it, you are not alone, we all suffer this malady and we all fight everyday with it to get ourselves up on our feet yet again.</strong></p>
-
+    <small><em><a href="/2013/12/14/uphill-battle/">read more</a></em></small>
   </div>
   
   <div class="post">
@@ -131,17 +124,7 @@ by fearing to attempt.  </p>
 
     <p>I have been asked a couple of times now why I teach at <a href="http://makersacademy.com">Makers Academy</a> instead of making <em>a lot of money</em> with my skills.</p>
 
-<p>I could write about many reasons that this is so; <a href="http://twitter.com/shadchnev">being</a> <a href="http://twitter.com/startuprob">part</a> <a href="http://twitter.com/JordanPoulton">of</a> <a href="http://twitter.com/alexpeattie">an</a> <a href="http://twitter.com/anitacanita">awesome</a> <a href="http://twitter.com/rubenkostucki">team</a> <a href="http://twitter.com/Jamedjo">helps</a>, but that is not the main reason.</p>
-
-<p>Last friday, at the <a href="http://alumni.makersacademy.com/cohorts/august">graduation</a>, magic happened while having an inocent conversation with the mother of one of our graduates; a humbling moment; a compliment; an inspiring gesture.</p>
-
-<p>There are many different reasons that make teaching a fullfilling calling, but that conversation trumped everything so far:</p>
-
-<blockquote>
-<p>In 12 weeks you have achieved what I, as a mother, haven&#39;t in a lifetime; thank you!
-~ mom</p>
-</blockquote>
-
+    <small><em><a href="/2013/11/10/why-makers/">read more</a></em></small>
   </div>
   
   <div class="post">
@@ -157,14 +140,7 @@ by fearing to attempt.  </p>
 <p>The true sign of intelligence is not knowledge but imagination. ~ Albert Einstein</p>
 </blockquote>
 
-<p>One of the hardest thing for a learner is to start being able to use his imagination in order to apply his knowledge. </p>
-
-<p>When we learn something new, we learn a way of doing something, a syntax. This information will not stick long in our heads if we don&#39;t practice, practice, practice the newly acquired skill a lot while it is still fresh in our heads. Once we do though something interesting starts to happen. Our brain starts recognising patterns and weaving new ideas and ways we could accomplish the same thing or improve over it.</p>
-
-<p>A musician learns to play note by note a song. It sounds boring and lifeless, even if he hits every note perfectly well. But as he practices over and over he starts making that song his; a piece of his soul wanders into his instrument and the notes he is playing, art happens.</p>
-
-<p>When you learn something novell, go over what you have learned, a million times and over again, but then, let your imagination and your playfulness have a go at it and create new pathways and patterns around the acquired knowledge.</p>
-
+    <small><em><a href="/2013/10/27/use-your-imagination/">read more</a></em></small>
   </div>
   
   <div class="post">
@@ -178,8 +154,7 @@ by fearing to attempt.  </p>
 
     <p>Yesterday I gave a little talk at <a href="http://makersacademy.com">Makers Academy</a> on <em>the basics</em> of agile and specially XP.</p>
 
-<p>You can find it on <a href="http://speakerdeck.com">Speaker Deck</a> <a href="https://speakerdeck.com/ecomba/agile-and-xp-basics">here</a>.</p>
-
+    <small><em><a href="/2013/10/22/agile-xp/">read more</a></em></small>
   </div>
   
   <div class="post">
@@ -193,58 +168,7 @@ by fearing to attempt.  </p>
 
     <p>The other day I was going through some code with <a href="https://twitter.com/shadchnev">Evgeny</a> and we had a discussion about the <em><a href="http://stackoverflow.com/questions/954570/definition-of-clean-code">cleanness</a></em> of it. The code in question was by no means wrong or anything, but it <em>felt</em> strange.</p>
 
-<p>When you spend years in a profession you have an intuition about what can be done better and what feels wrong (<em>we usually call this <a href="https://en.wikipedia.org/wiki/Code_smell">code smells</a></em>).</p>
-
-<p>Anyhow, let&#39;s go back to the code in question, shall we?</p>
-
-<p>Imagine you have a piece of code that allows a person to rent a bike from a docking station (<em>in London we call these things <a href="https://en.wikipedia.org/wiki/Barclays_Cycle_Hire">Boris Bikes</a></em>). The docking station would look something like this:</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">class DockingStation
-  def rent(bike)
-    # something interesting happens here to return a bike
-  end
-end  
-</code></pre></div>
-<p>Looking closer at that piece of code we notice that the caller will have to know about the existance of a given bike inside that station for him to actually be able to rent the bike. Now that we have decided for this interface we have to provide a means for the caller to at least see the bikes in the docking station:</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">class DockingStation
-  def available_bikes
-    # return collection of the bikes
-    # in the station
-  end
-end  
-</code></pre></div>
-<p>If you look at this from the point of view of a real life scenario, a person wanting to rent a bike will most definitely <em>choose</em> his bike from the ones he can see on the station.</p>
-
-<p>Also, if you look at this problem from the point of view that a bike is stored in a database and will have to be pulled from the database in order for it to be rented it might look as it is perfectly OK.</p>
-
-<p>So far so good... <strong>What&#39;s my problem with this code then?</strong></p>
-
-<p>The issue I have with this approach is the amount of <em>knowledge</em> the caller has to have about the inner representation of the docking station in order to rent <em>a bike</em> from a docking station.</p>
-
-<p>Most codebases are not build around the notion of the <a href="https://en.wikipedia.org/wiki/User_experience_design">user experience</a> the next developer will have with the code we produce. How easy will it be to use? How much will we have to read in order to understand how to use this code? Will it make us happy?</p>
-
-<p>I spend a lot of time thinking in those terms when I am coding, I am not only solving a problem, I am making conscious choices about how my code will be used and what you can expect from it.</p>
-
-<p>Let&#39;s look a a different approach to this problem; <em>renting a bike from a docking station</em>. What the caller to the docking station ultimately wants to do is <em>renting a bike</em>. He doesn&#39;t want to deal with any specifics of the docking station, it&#39;s not his responsiblilty:</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">class DockingStation
-  def rent_bike
-    # do something to return an available bike
-  end
-end
-</code></pre></div>
-<p>Here we have decided to include what was the argument to the method into the methods signature. </p>
-
-<p><strong>What have we achived here?</strong></p>
-
-<p>First of all we don&#39;t need to pass in an argument to the method anymore, which makes the code simpler to use. </p>
-
-<p>Secondly, by including what was the arguments name in the previous example in the method signature, we have now a method that <a href="http://c2.com/cgi/wiki?IntentionRevealingNames">reveals its intent</a>.</p>
-
-<p>And finally the caller no longer has to know <em>how</em> things are done inside the docking station; the inner structure is left to be the dockings stations responsability. This actually has many advantages as we can change that inner structure any time without affecting any code that uses our docking station.</p>
-
-<p>But the most important lesson here is that we have made the life of the next developer easier; we have thought about what he will experience and feel while using our docking station. </p>
-
-<p><strong>It&#39;s your turn!</strong> <em>Next time you are writing code think about what the next developer will feel and experience when interacting with your code.</em></p>
-
+    <small><em><a href="/2013/10/19/the-next-developer/">read more</a></em></small>
   </div>
   
 </div>
@@ -259,6 +183,7 @@ end
     
   
 </div>
+
       </div>
     </div>
 
