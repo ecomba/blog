@@ -4,13 +4,32 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-24T08:12:48+01:00</updated>
+ <updated>2014-08-25T11:40:10+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>tmux-conf</title>
+   <link href="http://ecomba.pro/2014/08/24/tmux/"/>
+   <updated>2014-08-24T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2014/08/24/tmux</id>
+   <content type="html">&lt;p&gt;Usually I keep &lt;em&gt;dot&lt;/em&gt; and configuration files somehow on &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt; so that I can retrieve them in case of a mayor disaster ( &lt;em&gt;laptop blowing up, etc&lt;/em&gt; ).&lt;/p&gt;
+
+&lt;p&gt;The other day I was pairing with a friend. I decided I wanted to share with him my remote pairing configuration... &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WTF!!! WHERE DID IT GO?!?!?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Not to long ago my trusted &lt;a href=&quot;http://www.apple.com/macbook-air/&quot;&gt;MacBook Air&lt;/a&gt; stopped working and I changed it for a &lt;a href=&quot;http://makersacademy.com&quot;&gt;Makers Academy&lt;/a&gt; &lt;a href=&quot;http://www.apple.com/macbook-pro/&quot;&gt;MackBook Pro&lt;/a&gt; ( &lt;em&gt;a really nice machine if you ask me&lt;/em&gt; ). Given that I am not working remotely at the moment I didn&amp;#39;t have any &lt;a href=&quot;http://tmux.sourceforge.net&quot;&gt;tmux&lt;/a&gt; or my trusted configurations setup... &lt;em&gt;a real bummer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So I quickly installed it and went through it with him, but having learned the lesson, I added it to &lt;a href=&quot;http://github.com/ecomba&quot;&gt;my github&lt;/a&gt; for future reference.&lt;/p&gt;
+
+&lt;p&gt;If you are remotely interested in my &lt;a href=&quot;http://tmux.sourceforge.net&quot;&gt;tmux&lt;/a&gt; configuration you can take a look at it &lt;strong&gt;&lt;a href=&quot;http://github.com/ecomba/tmux-conf&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Mushin no shin - 無心の心</title>
