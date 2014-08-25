@@ -4,13 +4,39 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-25T12:18:33+01:00</updated>
+ <updated>2014-08-25T20:15:01+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>100 days</title>
+   <link href="http://ecomba.pro/2014/08/25/100-days/"/>
+   <updated>2014-08-25T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2014/08/25/100-days</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;All this will not be finished in the first hundred days. 
+Nor will it be finished in the first thousand days, nor in 
+the life of this administration, nor even perhaps in 
+our lifetime on this planet. But let us begin.&lt;/p&gt;
+
+&lt;p&gt;John F. Kennedy&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So my friend &lt;a href=&quot;http://roidriscoll.github.io&quot;&gt;Roi&lt;/a&gt; and me have started this thing... a &lt;a href=&quot;http://roidriscoll.github.io/blog/2014/08/25/100-days/&quot;&gt;100 days&lt;/a&gt; of creating content, or rather a 100 days of pushing code to &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Coding is a passion of mine, but recently I have been working mostly on private projects and repos, which is great, but we want to produce things that are useful for people as well.&lt;/p&gt;
+
+&lt;p&gt;There are a ton of projects and ideas that one can build to help, and I am going to start working on some.&lt;/p&gt;
+
+&lt;p&gt;I am thinking about a blogging engine that I thought about a while ago, but never got to work on as I somehow had the idea of it being a commercial product ( &lt;em&gt;also I wanted to use it myself for blogging, maybe I will, maybe I will just create it and let others do it&lt;/em&gt; ). This might be a good starting project, I will see. &lt;strong&gt;The important part is working on something, &lt;em&gt;many different things&lt;/em&gt;, to create the habit&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wish us luck and, &lt;strong&gt;hey&lt;/strong&gt; if you have an idea that you don&amp;#39;t mind to be an &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source project&lt;/a&gt;, just let us know! &lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>tmux-conf</title>
