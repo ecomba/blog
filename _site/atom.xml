@@ -4,13 +4,30 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-25T21:00:01+01:00</updated>
+ <updated>2014-08-26T21:50:10+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Introducing chronicler</title>
+   <link href="http://ecomba.pro/2014/08/26/chronicler/"/>
+   <updated>2014-08-26T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2014/08/26/chronicler</id>
+   <content type="html">&lt;p&gt;So &lt;a href=&quot;/2014/08/25/100-days/&quot;&gt;yesterday I announced&lt;/a&gt; the idea &lt;a href=&quot;http://roidriscoll.github.io&quot;&gt;Roi&lt;/a&gt; and me had about committing every day to &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today I set up a new project, &lt;a href=&quot;https://github.com/ecomba/chronicler&quot;&gt;chronicler&lt;/a&gt; to start working on it for some time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ecomba/chronicler&quot;&gt;Chronicler&lt;/a&gt; is a blogging service that will focus on the content creation and ease of use. I want non-technical bloggers not to have to worry about anything but their content.&lt;/p&gt;
+
+&lt;p&gt;The code will be open source, but I will add a service as well for those who don&amp;#39;t want to deal with the technicalities of setting a chronicler instance up ( &lt;em&gt;big words... I haven&amp;#39;t even really started with the project and I am talking about these things already&lt;/em&gt; ).&lt;/p&gt;
+
+&lt;p&gt;Wish me luck with it and if you like the idea ( &lt;em&gt;once you see a little more of code in the project repo&lt;/em&gt; ) maybe you can chip in and help?&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>100 days</title>
