@@ -4,13 +4,22 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-08-26T21:50:10+01:00</updated>
+ <updated>2014-08-27T21:17:52+01:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Two weeks</title>
+   <link href="http://ecomba.pro/2014/08/27/two-weeks/"/>
+   <updated>2014-08-27T00:00:00+01:00</updated>
+   <id>http://ecomba.pro/2014/08/27/two-weeks</id>
+   <content type="html">&lt;p&gt;They say that it takes about 14 days to form an habit. Committing every day to a project is actually quite hard, we want to do this for the next 100 days...&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing chronicler</title>
