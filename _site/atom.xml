@@ -4,13 +4,35 @@
  <title>Enrique Comba Riepenhausen</title>
  <link href="http://ecomba.pro/atom.xml" rel="self"/>
  <link href="http://ecomba.pro/"/>
- <updated>2014-12-01T16:02:49+00:00</updated>
+ <updated>2014-12-03T16:27:42+00:00</updated>
  <id>http://ecomba.pro</id>
  <author>
    <name>Enrique Comba Riepenhausen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>FDD - Fun Driven Development</title>
+   <link href="http://ecomba.pro/2014/12/03/fun-driven-development/"/>
+   <updated>2014-12-03T00:00:00+00:00</updated>
+   <id>http://ecomba.pro/2014/12/03/fun-driven-development</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/fun.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Laughing and having a good time is known to help in working and getting 
+things done better; to be more productive.&lt;/p&gt;
+
+&lt;p&gt;This is something I take at heart a lot. I have been called &lt;em&gt;child&lt;/em&gt; by some 
+very serious developers (serious as in not smiling much) or looked at in 
+sheer astonishment with the question &lt;em&gt;&amp;quot;you guys are really working?&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The way I work best, when my code is the cleanest, when I give the best business advice is when I am having fun. The lightheartedness of my spirit makes me grow and come up with a myriad of ideas and solutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How are you at your best?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;small&gt;This post appeared first in March 2012 on my pervious blog at &lt;strong&gt;ecomba.org&lt;/strong&gt;&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Crossroads</title>
