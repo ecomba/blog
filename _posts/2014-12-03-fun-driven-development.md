@@ -3,8 +3,6 @@ layout: post
 title: FDD - Fun Driven Development
 ---
 
-![](/images/fun.jpg)
-
 Laughing and having a good time is known to help in working and getting 
 things done better; to be more productive.
 
