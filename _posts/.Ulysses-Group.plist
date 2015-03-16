@@ -2,10 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>_site</string>
+	</array>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2015-03-16-laughter.md</string>
+		</array>
 		<array>
 			<string>2013-10-17-i-am-here.md</string>
 		</array>

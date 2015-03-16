@@ -1,0 +1,59 @@
+<p>The other day I was going through some code with <a href="https://twitter.com/shadchnev">Evgeny</a> and we had a discussion about the <em><a href="http://stackoverflow.com/questions/954570/definition-of-clean-code">cleanness</a></em> of it. The code in question was by no means wrong or anything, but it <em>felt</em> strange.</p>
+
+<p>When you spend years in a profession you have an intuition about what can be done better and what feels wrong (<em>we usually call this <a href="https://en.wikipedia.org/wiki/Code_smell">code smells</a></em>).</p>
+
+<p>Anyhow, let’s go back to the code in question, shall we?</p>
+
+<p>Imagine you have a piece of code that allows a person to rent a bike from a docking station (<em>in London we call these things <a href="https://en.wikipedia.org/wiki/Barclays_Cycle_Hire">Boris Bikes</a></em>). The docking station would look something like this:</p>
+
+<pre><code>class DockingStation
+  def rent(bike)
+    # something interesting happens here to return a bike
+  end
+end  
+</code></pre>
+
+<p>Looking closer at that piece of code we notice that the caller will have to know about the existance of a given bike inside that station for him to actually be able to rent the bike. Now that we have decided for this interface we have to provide a means for the caller to at least see the bikes in the docking station:</p>
+
+<pre><code>class DockingStation
+  def available_bikes
+    # return collection of the bikes
+    # in the station
+  end
+end  
+</code></pre>
+
+<p>If you look at this from the point of view of a real life scenario, a person wanting to rent a bike will most definitely <em>choose</em> his bike from the ones he can see on the station.</p>
+
+<p>Also, if you look at this problem from the point of view that a bike is stored in a database and will have to be pulled from the database in order for it to be rented it might look as it is perfectly OK.</p>
+
+<p>So far so good… <strong>What’s my problem with this code then?</strong></p>
+
+<p>The issue I have with this approach is the amount of <em>knowledge</em> the caller has to have about the inner representation of the docking station in order to rent <em>a bike</em> from a docking station.</p>
+
+<p>Most codebases are not build around the notion of the <a href="https://en.wikipedia.org/wiki/User_experience_design">user experience</a> the next developer will have with the code we produce. How easy will it be to use? How much will we have to read in order to understand how to use this code? Will it make us happy?</p>
+
+<p>I spend a lot of time thinking in those terms when I am coding, I am not only solving a problem, I am making conscious choices about how my code will be used and what you can expect from it.</p>
+
+<p>Let’s look a a different approach to this problem; <em>renting a bike from a docking station</em>. What the caller to the docking station ultimately wants to do is <em>renting a bike</em>. He doesn’t want to deal with any specifics of the docking station, it’s not his responsiblilty:</p>
+
+<pre><code>class DockingStation
+  def rent_bike
+    # do something to return an available bike
+  end
+end
+</code></pre>
+
+<p>Here we have decided to include what was the argument to the method into the methods signature.</p>
+
+<p><strong>What have we achived here?</strong></p>
+
+<p>First of all we don’t need to pass in an argument to the method anymore, which makes the code simpler to use.</p>
+
+<p>Secondly, by including what was the arguments name in the previous example in the method signature, we have now a method that <a href="http://c2.com/cgi/wiki?IntentionRevealingNames">reveals its intent</a>.</p>
+
+<p>And finally the caller no longer has to know <em>how</em> things are done inside the docking station; the inner structure is left to be the dockings stations responsability. This actually has many advantages as we can change that inner structure any time without affecting any code that uses our docking station.</p>
+
+<p>But the most important lesson here is that we have made the life of the next developer easier; we have thought about what he will experience and feel while using our docking station.</p>
+
+<p><strong>It’s your turn!</strong> <em>Next time you are writing code think about what the next developer will feel and experience when interacting with your code.</em></p>
