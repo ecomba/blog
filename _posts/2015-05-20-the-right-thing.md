@@ -5,7 +5,7 @@ title: The Right Thing
 
 Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: _”Have you always done the right thing?”_
 
-I am sure I haven’t. There are many occasions I wish I would have chosen a different path, done a different thing, said many things that I wished I had not.
+I am sure I haven’t. There are many occasions I wish I would have chosen a different path, done a different thing, wished I had not said the things I did.
 
 The why is less important to me. Most of the things that have happened have happened in the past; long gone are the days where changing what was said will make a difference.
 
