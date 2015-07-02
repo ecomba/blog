@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Enrique Comba Riepenhausen
-tagline:          'Thoughts of a restless mind'
-description:      'I am a <a href="http://en.wikipedia.org/wiki/The_Fool_(Tarot_card)" target="_blank">fool</a>, <a href="http://www.philoscifi.com/love-of-wisdom" target="_blank">philosopher</a>, <a href="http://manifesto.softwarecraftsmanship.org" target="_blank">software craftsman</a>, <a href="https://github.com/ecomba" target="_blank">maker</a> of <a href="http://feedme.london" target="_blank">things</a> in <a href="http://patheleven.com" target="_blank">search</a> of <a href="/images/wisdom.jpg" target="_blank">wisdom</a> and enlightenment.'
+tagline:          ''
+description:      'I am a <a href="http://en.wikipedia.org/wiki/The_Fool_(Tarot_card)" target="_blank">fool</a>, <a href="http://www.philoscifi.com/love-of-wisdom" target="_blank">philosopher</a>, <a href="http://manifesto.softwarecraftsmanship.org" target="_blank">software craftsman</a>, <a href="https://github.com/ecomba" target="_blank">maker</a> of things in search of <a href="/images/wisdom.jpg" target="_blank">wisdom</a> and enlightenment.'
 url:              http://ecomba.pro
 
 author:
   name:           'Enrique Comba Riepenhausen'
-  url:            https://twitter.com/ecomba
+  url:            https://ecomba.pro
 
 paginate:         10
 
