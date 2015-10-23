@@ -3,10 +3,10 @@ layout: post
 title: Challenge
 ---
 
-> If you only do it when you feel like it, it’s hardly a 
+> If you only do it when you feel like it, it’s hardly a
 > challenge. Everyone can do that!
-> 
-> \~ Chloë Donegan
+>
+> \~ wise words from an unwise author
 
 Stepping out of your comfort zone to grow is not an easy thing to do.
 

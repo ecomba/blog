@@ -11,7 +11,7 @@ layout: default
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <time class="post-date" datetime="{{post.date}}">{{ post.date | date_to_string }}</time>
 
     {{ post.excerpt }}
     <small><em><a href="{{ post.url }}">read more</a></em></small>
