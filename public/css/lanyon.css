@@ -550,3 +550,10 @@ a.pagination-item:hover {
 .social-links {
   font-size: .8em;
 }
+.page img {
+  max-width: 100%;
+  margin-bottom: 0;
+}
+.page figcaption {
+  font-size: .6em;
+}
