@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ecomba
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ecomba.pro
+  * I am ecomba (https://keybase.io/ecomba) on keybase.
+  * I have a public key with fingerprint 1158 CCB7 3AC7 D09F DC31  C616 71FF 3C0E 11FC E124
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101368224b2b3c9c78499386e44abb681cf753dfb5e59053e90858b8b148cf43ef40a",
+            "fingerprint": "1158ccb73ac7d09fdc31c61671ff3c0e11fce124",
+            "host": "keybase.io",
+            "key_id": "71ff3c0e11fce124",
+            "kid": "0101368224b2b3c9c78499386e44abb681cf753dfb5e59053e90858b8b148cf43ef40a",
+            "uid": "814bf8d00430de086183c50fd144f719",
+            "username": "ecomba"
+        },
+        "service": {
+            "hostname": "ecomba.pro",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486828832,
+    "expire_in": 157680000,
+    "prev": "463d85991552482557e05eba1f4a6a56939b8c306398420a4ffa215458a7600b",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIxAnicrVJdaFRHGN1ok7grRYmF0tJquFELzZrO3Jm5d+5tEFGoklgpNaSS2G5n
+5s7dXJLsbnZvNoa46lNQm9KqMUlNmuhD7I8o/oD9g5ImLVRCS0GTWttQJGlKfFsw
+oSXUODfYh0IfnYcZ5ptzzpzz8X375MpQpAB/+lXk9YqrtQXj35xqDe0bIqUdGk86
+7ZrdoTXK5UM2OTLjxxo9R7M1AAFEBtV1zHWOhCVMii0LUUNizDg3KBSuSZDjciKJ
+BQiSFqCEcsohpsLFSLoYMC2quV4iLtOptJfwlSyEhArBTcSE6QDLdQSCwoCGCV0X
+CSAhdIWEOlbEhmQmYChznGVkhZdUNXWJLdv7H/xj9t26LEch5i51AMAIOBJQA1Ik
+CHAdiLFrQisAZmQ6wZqlQkuRbOZMy0U1Vct6QgZtDXL8570ilQ6yqN1PimSTqjf4
+fsoOaH57KsC1SR57pBDjXsJRLVSErExnvGRCs6FCCt8LJJVpFZZSpEc1eSDlpWXM
+CxDENChQK/hGZpUkNpBDiWVBQnRMdUJMCYjkDLqYGYwYFrI4FQgYyKJYBwy7LtMh
+wYQy0wCAa0GmlkRSsxFSPllcaWa8eIL5rWmp5UZH9j8RKoiEigpXBLMVioTX/jtx
+h+qLl2rWsfwz83vND478c/PLzbd6sif7frvy7FT0hnbvFqwOn7336+Qn9KXBq723
+xchASXhnX1seLsa3lq1+c/ij32/UjXV9sfJByS79Qu/sbrs0f7zj/S1dG7WX7y6s
+Gep/d3Fb/bnPev8K+w0z3bnTpbXXrp/NXix/I37w8ETh+qpjl16Lzpw7szB1/rvc
+83e6Iz381bcHVxX/UpP/eHbTluz3w/3sft/c9KZXlirr8tPei7mnq9e+dfQnu7Kz
+/cRAzcSA/Vzl/cUdte/YRRtb7arKF4rZ50996M3dbun8seXnv0fHb3adTiw0fj15
+JztevmfnmAHL5gt7Lm//c2TV7uo//PfK4Mzd+h82PAR3aTy5
+=Kioo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ecomba
+
+==================================================================
