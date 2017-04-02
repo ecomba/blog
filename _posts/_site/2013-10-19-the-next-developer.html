@@ -6,22 +6,24 @@
 
 <p>Imagine you have a piece of code that allows a person to rent a bike from a docking station (<em>in London we call these things <a href="https://en.wikipedia.org/wiki/Barclays_Cycle_Hire">Boris Bikes</a></em>). The docking station would look something like this:</p>
 
-<pre><code>class DockingStation
+<div class="highlighter-rouge"><pre class="highlight"><code>class DockingStation
   def rent(bike)
     # something interesting happens here to return a bike
   end
 end  
 </code></pre>
+</div>
 
 <p>Looking closer at that piece of code we notice that the caller will have to know about the existance of a given bike inside that station for him to actually be able to rent the bike. Now that we have decided for this interface we have to provide a means for the caller to at least see the bikes in the docking station:</p>
 
-<pre><code>class DockingStation
+<div class="highlighter-rouge"><pre class="highlight"><code>class DockingStation
   def available_bikes
     # return collection of the bikes
     # in the station
   end
 end  
 </code></pre>
+</div>
 
 <p>If you look at this from the point of view of a real life scenario, a person wanting to rent a bike will most definitely <em>choose</em> his bike from the ones he can see on the station.</p>
 
@@ -37,12 +39,13 @@ end
 
 <p>Let’s look a a different approach to this problem; <em>renting a bike from a docking station</em>. What the caller to the docking station ultimately wants to do is <em>renting a bike</em>. He doesn’t want to deal with any specifics of the docking station, it’s not his responsiblilty:</p>
 
-<pre><code>class DockingStation
+<div class="highlighter-rouge"><pre class="highlight"><code>class DockingStation
   def rent_bike
     # do something to return an available bike
   end
 end
 </code></pre>
+</div>
 
 <p>Here we have decided to include what was the argument to the method into the methods signature.</p>
 

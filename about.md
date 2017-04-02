@@ -13,9 +13,7 @@ I help people, companies and dreamers to achieve their potential.
 - I co-founded a great software company, [patheleven](http://patheleven.com)
 - I have written a book on [starting a software project](https://leanpub.com/inceptions)
 - I worked as the _Head of Education_ at [Makers Academy](http://makersacademy.com).
-- Currently I am a Senior Craftsman at [8th Light](http://8thlight.com).
+- Currently I am a Software Craftsman at [8th Light](http://8thlight.com).
 
 If you have any other questions or just want to drop me a line, please don’t
 hesitate to do so, I am open to suggestions and ideas!
-
-![001 - Flight over London](/images/hundred_photos/001\ -\ Flight\ over\ London.jpg)

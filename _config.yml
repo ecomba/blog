@@ -1,24 +1,71 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:        pretty
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Enrique Comba Riepenhausen
+author: Enrique
+description: Minimal, responsive Jekyll theme for hackers.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ecomba.pro" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+timezone: UTC
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
+  - jekyll-whiteglass.gemspec
+  - screenshot.png
+  - vendor
 
-# Setup
-title:            Enrique Comba Riepenhausen
-tagline:          ''
-description:      'I am a <a href="http://en.wikipedia.org/wiki/The_Fool_(Tarot_card)" target="_blank">fool</a>, <a href="http://www.philoscifi.com/love-of-wisdom" target="_blank">philosopher</a>, <a href="http://manifesto.softwarecraftsmanship.org" target="_blank">software craftsman</a>, <a href="https://github.com/ecomba" target="_blank">maker</a> of things in search of <a href="/images/wisdom.jpg" target="_blank">wisdom</a> and enlightenment.'
-url:              http://ecomba.pro
+# Social media
+twitter_username: ecomba
+twitter_image:
+facebook_app_id:
+facebook_image:
+google_analytics:
 
-author:
-  name:           'Enrique Comba Riepenhausen'
-  url:            https://ecomba.pro
+# Plugins
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
-paginate:         10
+# Build settings
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
 
-# Custom vars
-version:          2.0.0
+# Outputting
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
 
-github:
-  repo:           https://github.com/ecomba
+# Markdown settings
+kramdown:
+  auto_ids: false
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+
+# jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
