@@ -36,7 +36,7 @@ twitter_username: ecomba
 twitter_image:
 facebook_app_id:
 facebook_image:
-google_analytics:
+google_analytics: UA-25645069-4
 
 # Plugins
 gems:
