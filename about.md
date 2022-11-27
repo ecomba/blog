@@ -9,6 +9,7 @@ This site contains a number of blog posts and articles written by me; Enrique.
 
 I help people, companies and dreamers to achieve their potential.
 
+- Currently I am bootstrapping [Bean Mind](https://beanmind.com)
 - I worked as a independend API client developer, then coach, then ambassador
   at [DNSimple](https://dnsimple.com)
 - I worked as a Software Craftsman at [8th Light](https://8thlight.com).
