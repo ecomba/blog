@@ -23,7 +23,7 @@ subtitle: Vagabound thoughts
 name: Enrique Comba Riepenhausen
 email: hello@ecomba.pro
 description: >- # this means to ignore newlines until "baseurl:"
-I am Enrique, on this site I write about things that are in my mind.
+  I am Enrique, on this site I write about things that are in my mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ecomba.pro" # the base hostname & protocol for your site, e.g. http://example.com
 
