@@ -54,12 +54,6 @@ author:
 
 footer:
   links:
-    - label: "Bean Mind"
-      icon: "fas fa-fw fa-brain"
-      url: "https://beanmind.com"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@ecomba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ecomba"
