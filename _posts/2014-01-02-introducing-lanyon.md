@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 published: false
 title: Introducing Lanyon
 ---

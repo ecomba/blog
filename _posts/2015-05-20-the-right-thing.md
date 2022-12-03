@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: single
 title: The Right Thing
+header:
+  teaser: /assets/images/boss.jpg
 ---
 
 Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: _”Have you always done the right thing?”_

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Why I teach at Makers Academy
 ---
 I have been asked a couple of times now why I teach at [Makers Academy](http://makersacademy.com) instead of making *a lot of money* with my skills.

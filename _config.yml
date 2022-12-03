@@ -6,66 +6,108 @@
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Enrique Comba Riepenhausen
-author: Enrique
-description: Minimal, responsive Jekyll theme for hackers.
+subtitle: Vagabound thoughts
+name: Enrique Comba Riepenhausen
+email: hello@ecomba.pro
+description: >- # this means to ignore newlines until "baseurl:"
+I am Enrique, on this site I write about things that are in my mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ecomba.pro" # the base hostname & protocol for your site, e.g. http://example.com
-lang: en
-timezone: UTC
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - README.md
-  - LICENSE.txt
-  - CHANGELOG.md
-  - jekyll-whiteglass.gemspec
-  - screenshot.png
-  - vendor
 
-# Social media
-twitter_username: ecomba
-twitter_image:
-facebook_app_id:
-facebook_image:
-google_analytics: UA-25645069-4
+breadcrumbs: true
+search: true
 
-# Plugins
-gems:
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
+paginate: 5
+paginate_path: /recent/page:num/
+
+author:
+  name: "Enrique Comba Riepenhausen"
+  avatar: "/assets/images/ecomba.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Valencia, Spain"
+  links:
+    - label: "Bean Mind"
+      icon: "fas fa-fw fa-brain"
+      url: "https://beanmind.com"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@ecomba"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ecomba"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ecomba"
+
+footer:
+  links:
+    - label: "Bean Mind"
+      icon: "fas fa-fw fa-brain"
+      url: "https://beanmind.com"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@ecomba"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ecomba"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ecomba"
 
 # Build settings
-markdown: kramdown
-excerpt_separator: "<!-- more -->"
+# theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
 
-# Outputting
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
+teaser: /assets/images/teaser.jpg
 
-# Markdown settings
-kramdown:
-  auto_ids: false
-  enable_coderay: false
-  entity_output: as_char
-  footnote_nr: 1
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: 1..6
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 
-# jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
+      show_date: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Use your imagination
 ---
 > The true sign of intelligence is not knowledge but imagination. ~ Albert Einstein

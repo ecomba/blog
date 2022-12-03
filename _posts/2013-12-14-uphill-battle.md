@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: An uphill battle
 ---
 > Our doubts are traitors,

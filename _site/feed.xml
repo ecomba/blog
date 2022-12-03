@@ -1,1073 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
-  
-  
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-04-02T18:22:56+00:00</updated>
-  <id>http://localhost:4000//</id>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-03T22:05:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique Comba Riepenhausen</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Enrique Comba Riepenhausen</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/12/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-03T20:37:07+01:00</published><updated>2022-12-03T20:37:07+01:00</updated><id>http://localhost:4000/jekyll/update/2022/12/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/12/03/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-  
-    <title type="html">Enrique Comba Riepenhausen</title>
-  
+<p>Jekyll requires blog post files to be named according to the following format:</p>
 
-  
-    <subtitle>Minimal, responsive Jekyll theme for hackers.</subtitle>
-  
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
 
-  
-    <author>
-        <name>Enrique</name>
-      
-      
-    </author>
-  
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
-  
-  
-    <entry>
-      
-      <title type="html">Love anything</title>
-      
-      <link href="http://localhost:4000/2015/07/11/love-anything/" rel="alternate" type="text/html" title="Love anything" />
-      <published>2015-07-11T00:00:00+00:00</published>
-      <updated>2015-07-11T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/07/11/love-anything</id>
-      <content type="html" xml:base="http://localhost:4000/2015/07/11/love-anything/">&lt;blockquote&gt;
-  &lt;p&gt;Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.&lt;/p&gt;
+<p>Jekyll also offers powerful support for code snippets:</p>
 
-  &lt;p&gt;~ C.S. Lewis&lt;/p&gt;
-&lt;/blockquote&gt;
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-&lt;p&gt;Recently someone sent me this poem from &lt;a href=&quot;https://en.wikipedia.org/wiki/C._S._Lewis&quot;&gt;C.S.Lewis&lt;/a&gt;. When I first read it I felt uneasy about it. I could not understand the point of the poem. And then I saw the reason…&lt;/p&gt;
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Love anything</title><link href="http://localhost:4000/2015/07/11/love-anything.html" rel="alternate" type="text/html" title="Love anything" /><published>2015-07-11T00:00:00+02:00</published><updated>2015-07-11T00:00:00+02:00</updated><id>http://localhost:4000/2015/07/11/love-anything</id><content type="html" xml:base="http://localhost:4000/2015/07/11/love-anything.html"><![CDATA[<blockquote>
+  <p>Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.</p>
 
-&lt;p&gt;For Lewis love means opening our hearts to pain and sorrow. He sees the vulnerability of love as something negative, something to be avoided. Being vulnerable is the whole point of loving!&lt;/p&gt;
+  <p>~ C.S. Lewis</p>
+</blockquote>
 
-&lt;p&gt;Loving, truly loving, is a deep connection in which you put yourself out in the open.&lt;/p&gt;
+<p>Recently someone sent me this poem from <a href="https://en.wikipedia.org/wiki/C._S._Lewis">C.S.Lewis</a>. When I first read it I felt uneasy about it. I could not understand the point of the poem. And then I saw the reason…</p>
 
-&lt;p&gt;&lt;strong&gt;The only alternative is to live without love; to be alone forever.&lt;/strong&gt;&lt;/p&gt;
+<p>For Lewis love means opening our hearts to pain and sorrow. He sees the vulnerability of love as something negative, something to be avoided. Being vulnerable is the whole point of loving!</p>
 
-&lt;p&gt;&lt;em&gt;Deep down though everyone of us knows that we were not born to be alone, everyone seeks connection.&lt;/em&gt;&lt;/p&gt;
+<p>Loving, truly loving, is a deep connection in which you put yourself out in the open.</p>
 
-&lt;p&gt;This poem made me reflect on my work though. Over the years I have always tried to work for clients I can relate to, clients that at some level I had a connection to. People I could be vulnerable around and give them my true self. Only that way I am  capable of doing honest work, provide the best service money can buy.&lt;/p&gt;
+<p><strong>The only alternative is to live without love; to be alone forever.</strong></p>
 
-&lt;p&gt;If I’d hide my vulnerability away I would become a soulless creature in my emotional life and a worse professional for it.&lt;/p&gt;
+<p><em>Deep down though everyone of us knows that we were not born to be alone, everyone seeks connection.</em></p>
 
-&lt;p&gt;&lt;strong&gt;I reject that life that is no life!&lt;/strong&gt;&lt;/p&gt;</content>
+<p>This poem made me reflect on my work though. Over the years I have always tried to work for clients I can relate to, clients that at some level I had a connection to. People I could be vulnerable around and give them my true self. Only that way I am  capable of doing honest work, provide the best service money can buy.</p>
 
-      
-      
-      
-      
-      
+<p>If I’d hide my vulnerability away I would become a soulless creature in my emotional life and a worse professional for it.</p>
 
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
+<p><strong>I reject that life that is no life!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable. ~ C.S. Lewis]]></summary></entry><entry><title type="html">The Right Thing</title><link href="http://localhost:4000/2015/05/20/the-right-thing.html" rel="alternate" type="text/html" title="The Right Thing" /><published>2015-05-20T00:00:00+02:00</published><updated>2015-05-20T00:00:00+02:00</updated><id>http://localhost:4000/2015/05/20/the-right-thing</id><content type="html" xml:base="http://localhost:4000/2015/05/20/the-right-thing.html"><![CDATA[<p>Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: <em>”Have you always done the right thing?”</em></p>
 
-      
+<p>I am sure I haven’t. There are many occasions I wish I would have chosen a different path, done a different thing, wished I had not said the things I did.</p>
 
-      
+<p>The why is less important to me. Most of the things that have happened have happened in the past; long gone are the days where changing what was said will make a difference.</p>
 
-      
-        <summary type="html">Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable. ~ C.S. Lewis Recently someone sent me this poem from C.S.Lewis. When I first read it I felt uneasy about it. I could not understand the point of the poem. And then I saw the reason… For Lewis love means opening our hearts to pain and sorrow. He sees the vulnerability of love as something negative, something to be avoided. Being vulnerable is the whole point of loving! Loving, truly loving, is a deep connection in which you put yourself out in the open. The only alternative is to live without love; to be alone forever. Deep down though everyone of us knows that we were not born to be alone, everyone seeks connection. This poem made me reflect on my work though. Over the years I have always tried to work for clients I can relate to, clients that at some level I had a connection to. People I could be vulnerable around and give them my true self. Only that way I am capable of doing honest work, provide the best service money can buy. If I’d hide my vulnerability away I would become a soulless creature in my emotional life and a worse professional for it. I reject that life that is no life!</summary>
-      
+<p>The important thing is realising the fact that you are not unfailing – we all make mistakes, sometimes horrible ones.</p>
 
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">The Right Thing</title>
-      
-      <link href="http://localhost:4000/2015/05/20/the-right-thing/" rel="alternate" type="text/html" title="The Right Thing" />
-      <published>2015-05-20T00:00:00+00:00</published>
-      <updated>2015-05-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/05/20/the-right-thing</id>
-      <content type="html" xml:base="http://localhost:4000/2015/05/20/the-right-thing/">&lt;p&gt;Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: &lt;em&gt;”Have you always done the right thing?”&lt;/em&gt;&lt;/p&gt;
+<p>Knowing that though, why would you not do the right thing from now on? It’s easier not to, isn’t it? Integrity is hard and hard choices need to be done sometimes.</p>
 
-&lt;p&gt;I am sure I haven’t. There are many occasions I wish I would have chosen a different path, done a different thing, wished I had not said the things I did.&lt;/p&gt;
-
-&lt;p&gt;The why is less important to me. Most of the things that have happened have happened in the past; long gone are the days where changing what was said will make a difference.&lt;/p&gt;
-
-&lt;p&gt;The important thing is realising the fact that you are not unfailing – we all make mistakes, sometimes horrible ones.&lt;/p&gt;
-
-&lt;p&gt;Knowing that though, why would you not do the right thing from now on? It’s easier not to, isn’t it? Integrity is hard and hard choices need to be done sometimes.&lt;/p&gt;
-
-&lt;p&gt;Will you be able to live with yourself knowing that your moral principles don’t rest on strong ground? If the answer is no, you have everything you need to make that change.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: ”Have you always done the right thing?” I am sure I haven’t. There are many occasions I wish I would have chosen a different path, done a different thing, wished I had not said the things I did. The why is less important to me. Most of the things that have happened have happened in the past; long gone are the days where changing what was said will make a difference. The important thing is realising the fact that you are not unfailing – we all make mistakes, sometimes horrible ones. Knowing that though, why would you not do the right thing from now on? It’s easier not to, isn’t it? Integrity is hard and hard choices need to be done sometimes. Will you be able to live with yourself knowing that your moral principles don’t rest on strong ground? If the answer is no, you have everything you need to make that change.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Be now, look ahead</title>
-      
-      <link href="http://localhost:4000/2015/05/06/be-now-look-ahead/" rel="alternate" type="text/html" title="Be now, look ahead" />
-      <published>2015-05-06T00:00:00+00:00</published>
-      <updated>2015-05-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/05/06/be-now-look-ahead</id>
-      <content type="html" xml:base="http://localhost:4000/2015/05/06/be-now-look-ahead/">&lt;blockquote&gt;
-  &lt;p&gt;We travel together, passengers on a little spaceship, 
+<p>Will you be able to live with yourself knowing that your moral principles don’t rest on strong ground? If the answer is no, you have everything you need to make that change.</p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[Look into a mirror, deep into your eyes and ask this question to the person you have in front of you: ”Have you always done the right thing?”]]></summary></entry><entry><title type="html">Be now, look ahead</title><link href="http://localhost:4000/2015/05/06/be-now-look-ahead.html" rel="alternate" type="text/html" title="Be now, look ahead" /><published>2015-05-06T00:00:00+02:00</published><updated>2015-05-06T00:00:00+02:00</updated><id>http://localhost:4000/2015/05/06/be-now-look-ahead</id><content type="html" xml:base="http://localhost:4000/2015/05/06/be-now-look-ahead.html"><![CDATA[<blockquote>
+  <p>We travel together, passengers on a little spaceship, 
 dependent on it’s vulnerable reserves of air and soil, all 
 committed, for our safety, to it’s security and peace. 
 Preserved from annihilation only by the care, the work and 
-the love we give our fragile craft.&lt;/p&gt;
+the love we give our fragile craft.</p>
 
-  &lt;p&gt;~ Adlai E. Stevenson&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>~ Adlai E. Stevenson</p>
+</blockquote>
 
-&lt;p&gt;Sometimes in life we are afraid of our next step, afraid to commit, afraid of our own shadow. We get anxious about the overwhelming amounts of what if’s and maybes.&lt;/p&gt;
+<p>Sometimes in life we are afraid of our next step, afraid to commit, afraid of our own shadow. We get anxious about the overwhelming amounts of what if’s and maybes.</p>
 
-&lt;p&gt;Our minds get clouded and troubled in this busy times; it’s very easy to fall into the maelstrom of thoughts.&lt;/p&gt;
+<p>Our minds get clouded and troubled in this busy times; it’s very easy to fall into the maelstrom of thoughts.</p>
 
-&lt;p&gt;Take a breath, calm down, let the pressure fall. You are capable of doing many things in life, in fact, you have the potential to do everything you want to do.&lt;/p&gt;
+<p>Take a breath, calm down, let the pressure fall. You are capable of doing many things in life, in fact, you have the potential to do everything you want to do.</p>
 
-&lt;p&gt;Look ahead, to your desired future, and &lt;strong&gt;be now&lt;/strong&gt; – &lt;em&gt;you will get there!&lt;/em&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">We travel together, passengers on a little spaceship, dependent on it’s vulnerable reserves of air and soil, all committed, for our safety, to it’s security and peace. Preserved from annihilation only by the care, the work and the love we give our fragile craft. ~ Adlai E. Stevenson Sometimes in life we are afraid of our next step, afraid to commit, afraid of our own shadow. We get anxious about the overwhelming amounts of what if’s and maybes. Our minds get clouded and troubled in this busy times; it’s very easy to fall into the maelstrom of thoughts. Take a breath, calm down, let the pressure fall. You are capable of doing many things in life, in fact, you have the potential to do everything you want to do. Look ahead, to your desired future, and be now – you will get there!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Stop!</title>
-      
-      <link href="http://localhost:4000/2015/05/01/stop/" rel="alternate" type="text/html" title="Stop!" />
-      <published>2015-05-01T00:00:00+00:00</published>
-      <updated>2015-05-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/05/01/stop</id>
-      <content type="html" xml:base="http://localhost:4000/2015/05/01/stop/">&lt;blockquote&gt;
-  &lt;p&gt;We focus so much on our differences, and that is creating, 
+<p>Look ahead, to your desired future, and <strong>be now</strong> – <em>you will get there!</em></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[We travel together, passengers on a little spaceship, dependent on it’s vulnerable reserves of air and soil, all committed, for our safety, to it’s security and peace. Preserved from annihilation only by the care, the work and the love we give our fragile craft. ~ Adlai E. Stevenson]]></summary></entry><entry><title type="html">Stop!</title><link href="http://localhost:4000/2015/05/01/stop.html" rel="alternate" type="text/html" title="Stop!" /><published>2015-05-01T00:00:00+02:00</published><updated>2015-05-01T00:00:00+02:00</updated><id>http://localhost:4000/2015/05/01/stop</id><content type="html" xml:base="http://localhost:4000/2015/05/01/stop.html"><![CDATA[<blockquote>
+  <p>We focus so much on our differences, and that is creating, 
 I think, a lot of chaos and negativity and bullying in the 
 world. And I think if everybody focused on what we all have 
-in common - which is - we all want to be happy.&lt;/p&gt;
+in common - which is - we all want to be happy.</p>
 
-  &lt;p&gt;~ Ellen DeGeneres&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>~ Ellen DeGeneres</p>
+</blockquote>
 
-&lt;p&gt;The increasing amount of negativity in the world is mind boggling to me. Yes there are issues, yes, we all have to fix them &lt;strong&gt;together&lt;/strong&gt;.&lt;/p&gt;
+<p>The increasing amount of negativity in the world is mind boggling to me. Yes there are issues, yes, we all have to fix them <strong>together</strong>.</p>
 
-&lt;p&gt;But there are two approaches to this, you can either insult, patronise, be rude, etc., or you can choose to be polite, understanding, empathic.&lt;/p&gt;
+<p>But there are two approaches to this, you can either insult, patronise, be rude, etc., or you can choose to be polite, understanding, empathic.</p>
 
-&lt;p&gt;Yes, I am a privileged white man (&lt;em&gt;words someone used to attack me on the internet&lt;/em&gt;), but I choose to use my privilege to help others. If you insult me, try to burn me, I will turn my back to you, continue doing what I am doing helping the world becoming a better place, while you keep on shouting and using your angry ways.&lt;/p&gt;
+<p>Yes, I am a privileged white man (<em>words someone used to attack me on the internet</em>), but I choose to use my privilege to help others. If you insult me, try to burn me, I will turn my back to you, continue doing what I am doing helping the world becoming a better place, while you keep on shouting and using your angry ways.</p>
 
-&lt;p&gt;The only thing I ask you, as an intelligent human being, to &lt;strong&gt;stop being a jerk on the internet!&lt;/strong&gt; Being far away, protected by the intimacy of your home, does not give you the right to insult others back and forth.&lt;/p&gt;
+<p>The only thing I ask you, as an intelligent human being, to <strong>stop being a jerk on the internet!</strong> Being far away, protected by the intimacy of your home, does not give you the right to insult others back and forth.</p>
 
-&lt;p&gt;There is a good remedy for this, if you are interested:&lt;/p&gt;
+<p>There is a good remedy for this, if you are interested:</p>
 
-&lt;p&gt;&lt;em&gt;Get out of your house (and your head), step outside, look at the world in wonder, and start helping others (and living your life).&lt;/em&gt;&lt;/p&gt;
+<p><em>Get out of your house (and your head), step outside, look at the world in wonder, and start helping others (and living your life).</em></p>
 
-&lt;p&gt;And if you happen to be less privileged, seek help from people that will honestly look after you and offer real help, not just some way for them to feel better about themselves.&lt;/p&gt;</content>
+<p>And if you happen to be less privileged, seek help from people that will honestly look after you and offer real help, not just some way for them to feel better about themselves.</p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[We focus so much on our differences, and that is creating, I think, a lot of chaos and negativity and bullying in the world. And I think if everybody focused on what we all have in common - which is - we all want to be happy. ~ Ellen DeGeneres]]></summary></entry><entry><title type="html">Fun</title><link href="http://localhost:4000/2015/04/30/fun.html" rel="alternate" type="text/html" title="Fun" /><published>2015-04-30T00:00:00+02:00</published><updated>2015-04-30T00:00:00+02:00</updated><id>http://localhost:4000/2015/04/30/fun</id><content type="html" xml:base="http://localhost:4000/2015/04/30/fun.html"><![CDATA[<p>My son can play video games for 8 hours straight, for possibly a month or longer.</p>
 
-      
-      
-      
-      
-      
+<p>Now as a responsible parent you would not allow that to happen, but that is not really the interesting bit here.</p>
 
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
+<p>The question you have to ask to yourself is <em>”why is it we can spend 8 hours straight doing something?”</em> – the answer you will soon realise is actually quite simple, <strong>we have fun doing it.</strong></p>
 
-      
+<p>And yet, when it comes to work we end up doing things that we either don’t like or don’t particularly enjoy.</p>
 
-      
+<p>We should aim to create workplaces we really enjoy working in, where everyone has fun and that add to our lives, filling us with energy.</p>
 
-      
-        <summary type="html">We focus so much on our differences, and that is creating, I think, a lot of chaos and negativity and bullying in the world. And I think if everybody focused on what we all have in common - which is - we all want to be happy. ~ Ellen DeGeneres The increasing amount of negativity in the world is mind boggling to me. Yes there are issues, yes, we all have to fix them together. But there are two approaches to this, you can either insult, patronise, be rude, etc., or you can choose to be polite, understanding, empathic. Yes, I am a privileged white man (words someone used to attack me on the internet), but I choose to use my privilege to help others. If you insult me, try to burn me, I will turn my back to you, continue doing what I am doing helping the world becoming a better place, while you keep on shouting and using your angry ways. The only thing I ask you, as an intelligent human being, to stop being a jerk on the internet! Being far away, protected by the intimacy of your home, does not give you the right to insult others back and forth. There is a good remedy for this, if you are interested: Get out of your house (and your head), step outside, look at the world in wonder, and start helping others (and living your life). And if you happen to be less privileged, seek help from people that will honestly look after you and offer real help, not just some way for them to feel better about themselves.</summary>
-      
+<p><strong>That would be a place even my game playing son would love to work in!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[My son can play video games for 8 hours straight, for possibly a month or longer.]]></summary></entry><entry><title type="html">Dreams or Goals</title><link href="http://localhost:4000/2015/04/21/dreams_or_goals.html" rel="alternate" type="text/html" title="Dreams or Goals" /><published>2015-04-21T00:00:00+02:00</published><updated>2015-04-21T00:00:00+02:00</updated><id>http://localhost:4000/2015/04/21/dreams_or_goals</id><content type="html" xml:base="http://localhost:4000/2015/04/21/dreams_or_goals.html"><![CDATA[<blockquote>
+  <p>Dream as if you’ll live forever. Live as if you’ll die today.</p>
 
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Fun</title>
-      
-      <link href="http://localhost:4000/2015/04/30/fun/" rel="alternate" type="text/html" title="Fun" />
-      <published>2015-04-30T00:00:00+00:00</published>
-      <updated>2015-04-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/30/fun</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/30/fun/">&lt;p&gt;My son can play video games for 8 hours straight, for possibly a month or longer.&lt;/p&gt;
+  <p>~ James Dean</p>
+</blockquote>
 
-&lt;p&gt;Now as a responsible parent you would not allow that to happen, but that is not really the interesting bit here.&lt;/p&gt;
+<p>There is a difference between dreaming and having a goal.</p>
 
-&lt;p&gt;The question you have to ask to yourself is &lt;em&gt;”why is it we can spend 8 hours straight doing something?”&lt;/em&gt; – the answer you will soon realise is actually quite simple, &lt;strong&gt;we have fun doing it.&lt;/strong&gt;&lt;/p&gt;
+<p>I dream every day about great deeds and adventures in foreign lands of wonder and magic, places that don’t exist or are buried back in time.</p>
 
-&lt;p&gt;And yet, when it comes to work we end up doing things that we either don’t like or don’t particularly enjoy.&lt;/p&gt;
+<p>I also dream about things that I don’t really want to do, but I think it would be a great idea if I did – I just don’t want to do these hard enough to put in the effort.</p>
 
-&lt;p&gt;We should aim to create workplaces we really enjoy working in, where everyone has fun and that add to our lives, filling us with energy.&lt;/p&gt;
+<p>Sometimes though I have a goal – I set a target and I work towards that goal every time I get a chance to do so (<em>depending how eager I am to get there I will spend more time on it</em>).</p>
 
-&lt;p&gt;&lt;strong&gt;That would be a place even my game playing son would love to work in!&lt;/strong&gt;&lt;/p&gt;</content>
+<p><strong>Next time you <em>want</em> to do something, decide if it’s a dream or a goal, then act based on that decision!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[Dream as if you’ll live forever. Live as if you’ll die today. ~ James Dean]]></summary></entry><entry><title type="html">Positivity</title><link href="http://localhost:4000/2015/04/20/positivity.html" rel="alternate" type="text/html" title="Positivity" /><published>2015-04-20T00:00:00+02:00</published><updated>2015-04-20T00:00:00+02:00</updated><id>http://localhost:4000/2015/04/20/positivity</id><content type="html" xml:base="http://localhost:4000/2015/04/20/positivity.html"><![CDATA[<p>I bet you know someone who is always positive, never in a bad mood, eternal Pan Am smile on their face.</p>
 
-      
-      
-      
-      
-      
+<p><strong><em>Some people are just way to positive, aren’t they?</em></strong></p>
 
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
+<p>Being positive, or having a good mood, is a decision you take every morning by and for yourself. When you wake up you decide to have a good or a bad day.</p>
 
-      
+<p>The environment that surrounds you has a huge impact on how you are going to feel. Surround yourself with bad news and you will inevitably be sucked into it.</p>
 
-      
-
-      
-        <summary type="html">My son can play video games for 8 hours straight, for possibly a month or longer. Now as a responsible parent you would not allow that to happen, but that is not really the interesting bit here. The question you have to ask to yourself is ”why is it we can spend 8 hours straight doing something?” – the answer you will soon realise is actually quite simple, we have fun doing it. And yet, when it comes to work we end up doing things that we either don’t like or don’t particularly enjoy. We should aim to create workplaces we really enjoy working in, where everyone has fun and that add to our lives, filling us with energy. That would be a place even my game playing son would love to work in!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Dreams or Goals</title>
-      
-      <link href="http://localhost:4000/2015/04/21/dreams_or_goals/" rel="alternate" type="text/html" title="Dreams or Goals" />
-      <published>2015-04-21T00:00:00+00:00</published>
-      <updated>2015-04-21T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/21/dreams_or_goals</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/21/dreams_or_goals/">&lt;blockquote&gt;
-  &lt;p&gt;Dream as if you’ll live forever. Live as if you’ll die today.&lt;/p&gt;
-
-  &lt;p&gt;~ James Dean&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There is a difference between dreaming and having a goal.&lt;/p&gt;
-
-&lt;p&gt;I dream every day about great deeds and adventures in foreign lands of wonder and magic, places that don’t exist or are buried back in time.&lt;/p&gt;
-
-&lt;p&gt;I also dream about things that I don’t really want to do, but I think it would be a great idea if I did – I just don’t want to do these hard enough to put in the effort.&lt;/p&gt;
-
-&lt;p&gt;Sometimes though I have a goal – I set a target and I work towards that goal every time I get a chance to do so (&lt;em&gt;depending how eager I am to get there I will spend more time on it&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Next time you &lt;em&gt;want&lt;/em&gt; to do something, decide if it’s a dream or a goal, then act based on that decision!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Dream as if you’ll live forever. Live as if you’ll die today. ~ James Dean There is a difference between dreaming and having a goal. I dream every day about great deeds and adventures in foreign lands of wonder and magic, places that don’t exist or are buried back in time. I also dream about things that I don’t really want to do, but I think it would be a great idea if I did – I just don’t want to do these hard enough to put in the effort. Sometimes though I have a goal – I set a target and I work towards that goal every time I get a chance to do so (depending how eager I am to get there I will spend more time on it). Next time you want to do something, decide if it’s a dream or a goal, then act based on that decision!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Positivity</title>
-      
-      <link href="http://localhost:4000/2015/04/20/positivity/" rel="alternate" type="text/html" title="Positivity" />
-      <published>2015-04-20T00:00:00+00:00</published>
-      <updated>2015-04-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/20/positivity</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/20/positivity/">&lt;p&gt;I bet you know someone who is always positive, never in a bad mood, eternal Pan Am smile on their face.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Some people are just way to positive, aren’t they?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Being positive, or having a good mood, is a decision you take every morning by and for yourself. When you wake up you decide to have a good or a bad day.&lt;/p&gt;
-
-&lt;p&gt;The environment that surrounds you has a huge impact on how you are going to feel. Surround yourself with bad news and you will inevitably be sucked into it.&lt;/p&gt;
-
-&lt;p&gt;So, for today, and the rest of the week if you dare, surround yourself by people that are nice to you, get inspired and smile a little more (&lt;em&gt;the sun is shining after all&lt;/em&gt;)!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">I bet you know someone who is always positive, never in a bad mood, eternal Pan Am smile on their face. Some people are just way to positive, aren’t they? Being positive, or having a good mood, is a decision you take every morning by and for yourself. When you wake up you decide to have a good or a bad day. The environment that surrounds you has a huge impact on how you are going to feel. Surround yourself with bad news and you will inevitably be sucked into it. So, for today, and the rest of the week if you dare, surround yourself by people that are nice to you, get inspired and smile a little more (the sun is shining after all)!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Risk</title>
-      
-      <link href="http://localhost:4000/2015/04/16/risk/" rel="alternate" type="text/html" title="Risk" />
-      <published>2015-04-16T00:00:00+00:00</published>
-      <updated>2015-04-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/16/risk</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/16/risk/">&lt;blockquote&gt;
-  &lt;p&gt;It is better to risk starving to death then
+<p>So, for today, and the rest of the week if you dare, surround yourself by people that are nice to you, get inspired and smile a little more (<em>the sun is shining after all</em>)!</p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[I bet you know someone who is always positive, never in a bad mood, eternal Pan Am smile on their face.]]></summary></entry><entry><title type="html">Risk</title><link href="http://localhost:4000/2015/04/16/risk.html" rel="alternate" type="text/html" title="Risk" /><published>2015-04-16T00:00:00+02:00</published><updated>2015-04-16T00:00:00+02:00</updated><id>http://localhost:4000/2015/04/16/risk</id><content type="html" xml:base="http://localhost:4000/2015/04/16/risk.html"><![CDATA[<blockquote>
+  <p>It is better to risk starving to death then
 surrender. If you give up on your dreams,
- what’s left?&lt;/p&gt;
+ what’s left?</p>
 
-  &lt;p&gt;~ Jim Carrey&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>~ Jim Carrey</p>
+</blockquote>
 
-&lt;p&gt;Do you live in a busy city with heavy traffic? Do you know that crossing, difficult to see where the cars come from – high traffic, low visibility.&lt;/p&gt;
+<p>Do you live in a busy city with heavy traffic? Do you know that crossing, difficult to see where the cars come from – high traffic, low visibility.</p>
 
-&lt;p&gt;I’m always amazed how people risk their lives every morning, running over these crossings, risking their lives for a job they don’t even like (&lt;em&gt;they are late!&lt;/em&gt;).&lt;/p&gt;
+<p>I’m always amazed how people risk their lives every morning, running over these crossings, risking their lives for a job they don’t even like (<em>they are late!</em>).</p>
 
-&lt;p&gt;And then, when it really matters, when it’s the time you’d have to take those important decisions you just don’t – &lt;em&gt;you are afraid&lt;/em&gt;&lt;/p&gt;
+<p>And then, when it really matters, when it’s the time you’d have to take those important decisions you just don’t – <em>you are afraid</em></p>
 
-&lt;p&gt;Funnily enough, one of these situations will seriously harm or even kill you, and the other will take to a new journey in life – &lt;strong&gt;choose wisely!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">It is better to risk starving to death then surrender. If you give up on your dreams, what’s left? ~ Jim Carrey Do you live in a busy city with heavy traffic? Do you know that crossing, difficult to see where the cars come from – high traffic, low visibility. I’m always amazed how people risk their lives every morning, running over these crossings, risking their lives for a job they don’t even like (they are late!). And then, when it really matters, when it’s the time you’d have to take those important decisions you just don’t – you are afraid Funnily enough, one of these situations will seriously harm or even kill you, and the other will take to a new journey in life – choose wisely!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Remarkable</title>
-      
-      <link href="http://localhost:4000/2015/04/08/remarkable/" rel="alternate" type="text/html" title="Remarkable" />
-      <published>2015-04-08T00:00:00+00:00</published>
-      <updated>2015-04-08T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/08/remarkable</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/08/remarkable/">&lt;blockquote&gt;
-  &lt;p&gt;The remarkable thing is, we have a choice
+<p>Funnily enough, one of these situations will seriously harm or even kill you, and the other will take to a new journey in life – <strong>choose wisely!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[It is better to risk starving to death then surrender. If you give up on your dreams, what’s left? ~ Jim Carrey]]></summary></entry><entry><title type="html">Remarkable</title><link href="http://localhost:4000/2015/04/08/remarkable.html" rel="alternate" type="text/html" title="Remarkable" /><published>2015-04-08T00:00:00+02:00</published><updated>2015-04-08T00:00:00+02:00</updated><id>http://localhost:4000/2015/04/08/remarkable</id><content type="html" xml:base="http://localhost:4000/2015/04/08/remarkable.html"><![CDATA[<blockquote>
+  <p>The remarkable thing is, we have a choice
 everyday regarding the attitude we will embrace
-for that day.&lt;/p&gt;
+for that day.</p>
 
-  &lt;p&gt;~ Charles R. Swindoll&lt;/p&gt;
-&lt;/blockquote&gt;
+  <p>~ Charles R. Swindoll</p>
+</blockquote>
 
-&lt;p&gt;To be remarkable you don’t have to do things that change humanity, things that everyone will talk about.&lt;/p&gt;
+<p>To be remarkable you don’t have to do things that change humanity, things that everyone will talk about.</p>
 
-&lt;p&gt;&lt;em&gt;The real secret to becoming remarkable it to give your entire self to everything you do. Be present at what you do, do things that you could not have done any better.&lt;/em&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day. ~ Charles R. Swindoll To be remarkable you don’t have to do things that change humanity, things that everyone will talk about. The real secret to becoming remarkable it to give your entire self to everything you do. Be present at what you do, do things that you could not have done any better.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Adventure</title>
-      
-      <link href="http://localhost:4000/2015/04/03/adventure/" rel="alternate" type="text/html" title="Adventure" />
-      <published>2015-04-03T00:00:00+00:00</published>
-      <updated>2015-04-03T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/03/adventure</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/03/adventure/">&lt;blockquote&gt;
-  &lt;p&gt;Life is either a great adventure or nothing&lt;/p&gt;
-
-  &lt;p&gt;~ Helen Keller&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;When you look at the world with the eyes of an adventurer every hurdle seems like a challenge, a game you need to beat, an obstacle you can, and have to surpass.&lt;/p&gt;
-
-&lt;p&gt;Live your life like an adventurer, drawing your own map as you move in through the vast mountains and valleys seeking to satisfy your thirst for &lt;strong&gt;adventure!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Life is either a great adventure or nothing ~ Helen Keller When you look at the world with the eyes of an adventurer every hurdle seems like a challenge, a game you need to beat, an obstacle you can, and have to surpass. Live your life like an adventurer, drawing your own map as you move in through the vast mountains and valleys seeking to satisfy your thirst for adventure!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Anxiety</title>
-      
-      <link href="http://localhost:4000/2015/04/02/anxiety/" rel="alternate" type="text/html" title="Anxiety" />
-      <published>2015-04-02T00:00:00+00:00</published>
-      <updated>2015-04-02T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/02/anxiety</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/02/anxiety/">&lt;blockquote&gt;
-  &lt;p&gt;anxiety |aŋˈzʌɪəti|
-noun (pl. &lt;strong&gt;anxieties&lt;/strong&gt;)  mass noun&lt;/p&gt;
-
-  &lt;table&gt;
-    &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;1 - a feeling of worry, nervousness, or unease about something with an uncertain outcome: he felt a surge of anxiety&lt;/td&gt;
-        &lt;td&gt;count noun  : anxieties about the moral decline of today’s youth.&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
-
-  &lt;p&gt;• Psychiatry a nervous disorder marked by excessive uneasiness and apprehension, typically with compulsive behaviour or panic attacks.  as modifier  : she suffered from anxiety attacks.&lt;/p&gt;
-
-  &lt;p&gt;2 -  with infinitive  strong desire or concern to do something or for something to happen: the housekeeper’s eager anxiety to please.&lt;/p&gt;
-
-  &lt;p&gt;ORIGIN early 16th cent.: from French anxiété or Latin anxietas, from anxius (see anxious) .&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A lot of people say they are afraid of doing that thing they really would love doing. They dream about that life that could be, but never seem to be able to get the courage to do so.&lt;/p&gt;
-
-&lt;p&gt;Thing is, this is not fear. Fear comes from comes from an imminent threat or danger.&lt;/p&gt;
-
-&lt;p&gt;Anxiety happens when instead of doing something we &lt;em&gt;think&lt;/em&gt; about possible (&lt;em&gt;bad&lt;/em&gt;) outcomes of the thing we want to do.&lt;/p&gt;
-
-&lt;p&gt;One thing that a few know though is that your anxiety is a compass you can use to know what you should be doing. Your resistance tries to keep you away from doing things that threaten your inner status quo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fight your anxieties and face your dreams!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">anxiety |aŋˈzʌɪəti| noun (pl. anxieties) mass noun 1 - a feeling of worry, nervousness, or unease about something with an uncertain outcome: he felt a surge of anxiety count noun : anxieties about the moral decline of today’s youth. • Psychiatry a nervous disorder marked by excessive uneasiness and apprehension, typically with compulsive behaviour or panic attacks. as modifier : she suffered from anxiety attacks. 2 - with infinitive strong desire or concern to do something or for something to happen: the housekeeper’s eager anxiety to please. ORIGIN early 16th cent.: from French anxiété or Latin anxietas, from anxius (see anxious) . A lot of people say they are afraid of doing that thing they really would love doing. They dream about that life that could be, but never seem to be able to get the courage to do so. Thing is, this is not fear. Fear comes from comes from an imminent threat or danger. Anxiety happens when instead of doing something we think about possible (bad) outcomes of the thing we want to do. One thing that a few know though is that your anxiety is a compass you can use to know what you should be doing. Your resistance tries to keep you away from doing things that threaten your inner status quo. Fight your anxieties and face your dreams!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Curiosity</title>
-      
-      <link href="http://localhost:4000/2015/04/01/curiosity/" rel="alternate" type="text/html" title="Curiosity" />
-      <published>2015-04-01T00:00:00+00:00</published>
-      <updated>2015-04-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/04/01/curiosity</id>
-      <content type="html" xml:base="http://localhost:4000/2015/04/01/curiosity/">&lt;blockquote&gt;
-  &lt;p&gt;There is much pleasure to be gained from useless knowledge.&lt;/p&gt;
-
-  &lt;p&gt;~ Bertrand Russell&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Do you find yourself, sometimes, reading or researching some seemingly pointless piece of information? Have you ever gone on a limb to find out something more about some random fact that you have overheard?&lt;/p&gt;
-
-&lt;p&gt;Or, on the other hand, do you frown upon people who do these kind of things? Do you think these are pointless exercises that are a waste of everyones time?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Useless knowledge&lt;/em&gt; helps you to feed your curiosity and your ability to find information just about any topic you can imagine.&lt;/p&gt;
-
-&lt;p&gt;If you are a knowledge worker, a problem solver by profession, this is an excellent way to hone your skills; because &lt;em&gt;useless knowledge&lt;/em&gt; is not so useless after all.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">There is much pleasure to be gained from useless knowledge. ~ Bertrand Russell Do you find yourself, sometimes, reading or researching some seemingly pointless piece of information? Have you ever gone on a limb to find out something more about some random fact that you have overheard? Or, on the other hand, do you frown upon people who do these kind of things? Do you think these are pointless exercises that are a waste of everyones time? Useless knowledge helps you to feed your curiosity and your ability to find information just about any topic you can imagine. If you are a knowledge worker, a problem solver by profession, this is an excellent way to hone your skills; because useless knowledge is not so useless after all.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Craziness</title>
-      
-      <link href="http://localhost:4000/2015/03/31/craziness/" rel="alternate" type="text/html" title="Craziness" />
-      <published>2015-03-31T00:00:00+00:00</published>
-      <updated>2015-03-31T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/31/craziness</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/31/craziness/">&lt;blockquote&gt;
-  &lt;p&gt;“Why do so many people work so hard so they can escape to Disneyland? Why are video games more popular than work? … Why do many workers spend years dreaming about and planning for retirement?&lt;/p&gt;
-
-  &lt;p&gt;The reason is simple and dispiriting. We have made the workplace a frustrating and joyless place where people do what they’re told and have few ways to participate in decisions or fully use their talents. As a result, they naturally gravitate to pursuits in which they can exercise a measure of control over their lives.&lt;/p&gt;
-
-  &lt;p&gt;In most organisations I have been exposed to around the world, … we still have the offices “above” the working people … who, without consulting workers, make decisions that dramatically affect their lives.&lt;/p&gt;
-
-  &lt;p&gt;~ Dennis Bakke&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Stop playing video games to escape your reality! Stop trying to control the little things that don’t really count to much in your life.&lt;/p&gt;
-
-&lt;p&gt;You are exceptional and incredibly capable of doing what you should be doing.&lt;/p&gt;
-
-&lt;p&gt;Things need to change,&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;we need to regain control of our &lt;em&gt;self&lt;/em&gt;!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">“Why do so many people work so hard so they can escape to Disneyland? Why are video games more popular than work? … Why do many workers spend years dreaming about and planning for retirement? The reason is simple and dispiriting. We have made the workplace a frustrating and joyless place where people do what they’re told and have few ways to participate in decisions or fully use their talents. As a result, they naturally gravitate to pursuits in which they can exercise a measure of control over their lives. In most organisations I have been exposed to around the world, … we still have the offices “above” the working people … who, without consulting workers, make decisions that dramatically affect their lives. ~ Dennis Bakke Stop playing video games to escape your reality! Stop trying to control the little things that don’t really count to much in your life. You are exceptional and incredibly capable of doing what you should be doing. Things need to change, we need to regain control of our self!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Breaking the chain</title>
-      
-      <link href="http://localhost:4000/2015/03/30/breaking-the-chain/" rel="alternate" type="text/html" title="Breaking the chain" />
-      <published>2015-03-30T00:00:00+00:00</published>
-      <updated>2015-03-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/30/breaking-the-chain</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/30/breaking-the-chain/">&lt;blockquote&gt;
-  &lt;p&gt;Man was born free, and he is everywhere in chains&lt;/p&gt;
-
-  &lt;p&gt;~ Jean-Jacques Rousseau&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are chains in our society, in the pressure of living in a society. Some of them can be broken with courage and determination, some are harder to go through.&lt;/p&gt;
-
-&lt;p&gt;Breaking free of chains requires courage. The smallest chain, made of the weakest material can seem daunting at first. What is an impossible task at first might be really easy to master once you can see past your own anxiety.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your chains can be broken – &lt;em&gt;only if you will&lt;/em&gt;!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Man was born free, and he is everywhere in chains ~ Jean-Jacques Rousseau There are chains in our society, in the pressure of living in a society. Some of them can be broken with courage and determination, some are harder to go through. Breaking free of chains requires courage. The smallest chain, made of the weakest material can seem daunting at first. What is an impossible task at first might be really easy to master once you can see past your own anxiety. Your chains can be broken – only if you will!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Anger</title>
-      
-      <link href="http://localhost:4000/2015/03/29/anger/" rel="alternate" type="text/html" title="Anger" />
-      <published>2015-03-29T00:00:00+00:00</published>
-      <updated>2015-03-29T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/29/anger</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/29/anger/">&lt;blockquote&gt;
-  &lt;p&gt;Anybody can become angry – that is easy, but to be angry
-with the right person and to the right degree and at the
-right time and for the right purpose, and in the right way –
-that is not within everybody’s power and is not easy.&lt;/p&gt;
-
-  &lt;p&gt;~ Aristotle&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Curiosity drives the minds of the human nature. We seek and seek to understand. Sometimes we ask questions when we don’t understand something, sometimes we show the world what we have found or what we have – within the limits of our own perception – witnessed.&lt;/p&gt;
-
-&lt;p&gt;With the rise of the &lt;em&gt;Social Media&lt;/em&gt; this has been multiplied to a great extent. What someone said in one remote corner of the world is oftentimes discussed in a complete different corner of the world.&lt;/p&gt;
-
-&lt;p&gt;It incredible beautiful and empowering how we can make our world shrink and bring us all together.&lt;/p&gt;
-
-&lt;p&gt;Sadly though, this is not the only thing happening. Every comment is directed, every opinion turned over. The curious get shot down with angry comments, the opinions of others assaulted.&lt;/p&gt;
-
-&lt;p&gt;The web we have created is turning into an hostile place to be in. There is a lot of anger in the world. I am no one to tell you to change, but next time you want to give an off response to someone try to sit back, think again about the context and relax a moment.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;There is no need to be insulting strangers all over the world just because they are not standing in front of you.&lt;/em&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Anybody can become angry – that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way – that is not within everybody’s power and is not easy. ~ Aristotle Curiosity drives the minds of the human nature. We seek and seek to understand. Sometimes we ask questions when we don’t understand something, sometimes we show the world what we have found or what we have – within the limits of our own perception – witnessed. With the rise of the Social Media this has been multiplied to a great extent. What someone said in one remote corner of the world is oftentimes discussed in a complete different corner of the world. It incredible beautiful and empowering how we can make our world shrink and bring us all together. Sadly though, this is not the only thing happening. Every comment is directed, every opinion turned over. The curious get shot down with angry comments, the opinions of others assaulted. The web we have created is turning into an hostile place to be in. There is a lot of anger in the world. I am no one to tell you to change, but next time you want to give an off response to someone try to sit back, think again about the context and relax a moment. There is no need to be insulting strangers all over the world just because they are not standing in front of you.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Seed</title>
-      
-      <link href="http://localhost:4000/2015/03/28/seed/" rel="alternate" type="text/html" title="Seed" />
-      <published>2015-03-28T00:00:00+00:00</published>
-      <updated>2015-03-28T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/28/seed</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/28/seed/">&lt;blockquote&gt;
-  &lt;p&gt;Think twice before you speak, because your words and influence 
-will plant the seed of either success of failure in the mind
-of another&lt;/p&gt;
-
-  &lt;p&gt;~ Napoleon Hill&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Your mind can be influenced very easily – words we say to others can prime them to fail or do great.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It’s quite remarkable how we are wired.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Next time you feel a certain way (&lt;em&gt;anxious, amazing, etc&lt;/em&gt;) spend some time thinking why that is. Did you or someone else say something that made you feel that way?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There is power in words, use them wisely!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Think twice before you speak, because your words and influence will plant the seed of either success of failure in the mind of another ~ Napoleon Hill Your mind can be influenced very easily – words we say to others can prime them to fail or do great. It’s quite remarkable how we are wired. Next time you feel a certain way (anxious, amazing, etc) spend some time thinking why that is. Did you or someone else say something that made you feel that way? There is power in words, use them wisely!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Trust</title>
-      
-      <link href="http://localhost:4000/2015/03/27/trust/" rel="alternate" type="text/html" title="Trust" />
-      <published>2015-03-27T00:00:00+00:00</published>
-      <updated>2015-03-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/27/trust</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/27/trust/">&lt;blockquote&gt;
-  &lt;p&gt;Trust is the glue of life. It’s the most essential ingredient
-in effective communication. It’s the foundational principle
-that holds all relationships.&lt;/p&gt;
-
-  &lt;p&gt;~ Stephen Covey&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Do you trust the people you work with?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Don’t just go and and answer &lt;em&gt;”yes”&lt;/em&gt;. Think about it first. And besides, no one is going to hear your answer anyways.&lt;/p&gt;
-
-&lt;p&gt;What does it mean to &lt;strong&gt;really&lt;/strong&gt; trust someone?&lt;/p&gt;
-
-&lt;p&gt;They are the people you know that will do anything in their hands to help you with whatever problem you have; they are rare.&lt;/p&gt;
-
-&lt;p&gt;In the work environment you will possibly not achieve this level of trust I am talking about, but you will definitely know if you don’t trust someone.&lt;/p&gt;
-
-&lt;p&gt;If you don’t trust the people you work with find someone you do trust – you will enjoy work and your life far more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trust me on that!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Trust is the glue of life. It’s the most essential ingredient in effective communication. It’s the foundational principle that holds all relationships. ~ Stephen Covey Do you trust the people you work with? Don’t just go and and answer ”yes”. Think about it first. And besides, no one is going to hear your answer anyways. What does it mean to really trust someone? They are the people you know that will do anything in their hands to help you with whatever problem you have; they are rare. In the work environment you will possibly not achieve this level of trust I am talking about, but you will definitely know if you don’t trust someone. If you don’t trust the people you work with find someone you do trust – you will enjoy work and your life far more. Trust me on that!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Open your eyes</title>
-      
-      <link href="http://localhost:4000/2015/03/26/open-your-eyes/" rel="alternate" type="text/html" title="Open your eyes" />
-      <published>2015-03-26T00:00:00+00:00</published>
-      <updated>2015-03-26T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/26/open-your-eyes</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/26/open-your-eyes/">&lt;blockquote&gt;
-  &lt;p&gt;The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.&lt;/p&gt;
-
-  &lt;p&gt;~ Aristotle&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Zombies walk our streets day in and day out. People with their heads buried in their mobile phones, day dreaming or simply just sleeping whilst they are walking to work.&lt;/p&gt;
-
-&lt;p&gt;It shocks me every time when I come to this realisation as I dodge people on the streets…&lt;/p&gt;
-
-&lt;p&gt;You are not aware of your surroundings, you live inside your on shell disregarding anyone and everyone.&lt;/p&gt;
-
-&lt;p&gt;If everyone would try to be a little more aware and try not to step on every others toes (&lt;em&gt;figuratively and not so figuratively&lt;/em&gt;) everything would be so much better for all.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Human, please be HUMAN!&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival. ~ Aristotle Zombies walk our streets day in and day out. People with their heads buried in their mobile phones, day dreaming or simply just sleeping whilst they are walking to work. It shocks me every time when I come to this realisation as I dodge people on the streets… You are not aware of your surroundings, you live inside your on shell disregarding anyone and everyone. If everyone would try to be a little more aware and try not to step on every others toes (figuratively and not so figuratively) everything would be so much better for all. Human, please be HUMAN!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">At ease</title>
-      
-      <link href="http://localhost:4000/2015/03/25/at-ease/" rel="alternate" type="text/html" title="At ease" />
-      <published>2015-03-25T00:00:00+00:00</published>
-      <updated>2015-03-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/25/at-ease</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/25/at-ease/">&lt;blockquote&gt;
-  &lt;p&gt;Being at ease with not knowing is crucial for answers to come
-to you.&lt;/p&gt;
-
-  &lt;p&gt;~ Eckhart Tolle&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Being at ease is easier said than done. It’s the feeling of feeling comfortable in your own skin; no matter where you are (&lt;em&gt;work, with friends, etc&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;It’s something so simple and yet so difficult to achieve, there are people we feel we need to please, the social pressure…&lt;/p&gt;
-
-&lt;p&gt;The question is, &lt;strong&gt;why do you think you have to please anyone?&lt;/strong&gt; The only person that really matters in your life is &lt;strong&gt;you&lt;/strong&gt;. You have to live with yourself for the rest of your life.&lt;/p&gt;
-
-&lt;p&gt;Being at ease, finding comfort in who you are, is possibly the first (&lt;em&gt;and possibly only&lt;/em&gt;) step you should take in your daily interaction with people.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Being at ease with not knowing is crucial for answers to come to you. ~ Eckhart Tolle Being at ease is easier said than done. It’s the feeling of feeling comfortable in your own skin; no matter where you are (work, with friends, etc). It’s something so simple and yet so difficult to achieve, there are people we feel we need to please, the social pressure… The question is, why do you think you have to please anyone? The only person that really matters in your life is you. You have to live with yourself for the rest of your life. Being at ease, finding comfort in who you are, is possibly the first (and possibly only) step you should take in your daily interaction with people.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Focus</title>
-      
-      <link href="http://localhost:4000/2015/03/24/focus/" rel="alternate" type="text/html" title="Focus" />
-      <published>2015-03-24T00:00:00+00:00</published>
-      <updated>2015-03-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2015/03/24/focus</id>
-      <content type="html" xml:base="http://localhost:4000/2015/03/24/focus/">&lt;p&gt;People like the late Steve Jobs where known for their incredible ability to develop a laser sharp focus when it came to work.&lt;/p&gt;
-
-&lt;p&gt;Mastery in a skill takes a lifetime of dedication and perfection. You need to practice day in and day out honing the skill.&lt;/p&gt;
-
-&lt;p&gt;The problem comes when the skill you practice is the only thing you practice. As a developer you need to hone a whole array of skills ranging from a notion of design, business, marketing, human empathy, etc.&lt;/p&gt;
-
-&lt;p&gt;Coding, alas the one you will focus the most in, should not be your only skill.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your focus should lie on being an all-round better person.&lt;/strong&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Enrique</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">People like the late Steve Jobs where known for their incredible ability to develop a laser sharp focus when it came to work. Mastery in a skill takes a lifetime of dedication and perfection. You need to practice day in and day out honing the skill. The problem comes when the skill you practice is the only thing you practice. As a developer you need to hone a whole array of skills ranging from a notion of design, business, marketing, human empathy, etc. Coding, alas the one you will focus the most in, should not be your only skill. Your focus should lie on being an all-round better person.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-</feed>
+<p><em>The real secret to becoming remarkable it to give your entire self to everything you do. Be present at what you do, do things that you could not have done any better.</em></p>]]></content><author><name>Enrique Comba Riepenhausen</name></author><summary type="html"><![CDATA[The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day. ~ Charles R. Swindoll]]></summary></entry></feed>

@@ -1,15 +1,5 @@
-# If you want to link only specific pages in your header, add the path to the
-# pages in order as they should show up.
 main:
   - title: "Book: Inceptions"
     url: http://leanpub.com/inceptions
-  - title: "GitHub"
-    url: https://github.com/ecomba
-  - title: "Mastodon"
-    url: https://mastodon.social/@ecomba
-  - title: "Instagram"
-    url: https://www.instagram.com/ecomba/
   - title: "About"
     url: /about/
-  - title: "Archives"
-    url: /archives/
