@@ -36,7 +36,7 @@ paginate_path: /recent/page:num/
 author:
   name: "Enrique Comba Riepenhausen"
   avatar: "/assets/images/ecomba.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "Entrepreneur, traveller, Harley Rider, inked"
   location: "Valencia, Spain"
   links:
     - label: "Bean Mind"
