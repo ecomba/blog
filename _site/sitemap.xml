@@ -201,6 +201,10 @@
 <lastmod>2022-12-03T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2022/12/04/the-simple-things.html</loc>
+<lastmod>2022-12-04T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
@@ -232,5 +236,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/recent/page10/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/recent/page11/</loc>
 </url>
 </urlset>

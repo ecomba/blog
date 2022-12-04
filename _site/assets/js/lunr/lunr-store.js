@@ -298,4 +298,10 @@ var store = [{
         "tags": [],
         "url": "/2022/12/03/resurrecting.html",
         "teaser": "/assets/images/marek.jpg"
+      },{
+        "title": "The simple things",
+        "excerpt":"We all have rosy memories of a simpler, happy time- a time of homemade apple pie and gingham curtains, a time when Mom understood everything and Dad could fix anything. “Let’s get those traditional family values back!” we murmur to each other. Meanwhile, in a simultaneous universe, everyone I know,...","categories": [],
+        "tags": [],
+        "url": "/2022/12/04/the-simple-things.html",
+        "teaser": "/assets/images/old_shool.jpg"
       }]
