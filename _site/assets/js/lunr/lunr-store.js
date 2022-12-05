@@ -304,4 +304,10 @@ var store = [{
         "tags": [],
         "url": "/2022/12/04/the-simple-things.html",
         "teaser": "/assets/images/old_shool.jpg"
+      },{
+        "title": "Working for yourself",
+        "excerpt":"Most people who work for themselves have achieved work-life imbalance. ~ Mokokoma Mokhonoana When you start a new venture, you dream of the times when work is abundant and you reap what you have sowed. To get there, though, requires an incredible push and work (unless you are one of...","categories": [],
+        "tags": [],
+        "url": "/2022/12/05/working-for-yourself.html",
+        "teaser": "/assets/images/rebel.png"
       }]
