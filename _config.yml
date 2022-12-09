@@ -44,7 +44,7 @@ author:
       url: "https://beanmind.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@ecomba"
+      url: "https://ruby.social/@ecomba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ecomba"
