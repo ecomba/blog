@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: Be now, look ahead
-header:
-  teaser: /assets/images/look_ahead.png
 ---
 > We travel together, passengers on a little spaceship, 
 > dependent on it's vulnerable reserves of air and soil, all 

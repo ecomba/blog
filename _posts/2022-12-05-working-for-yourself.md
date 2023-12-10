@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Working for yourself
-header:
-  teaser: /assets/images/rebel.png
+tags: health
 ---
 
 > Most people who work for themselves have achieved work-life imbalance.

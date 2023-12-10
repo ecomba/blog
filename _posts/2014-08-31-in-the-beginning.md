@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: How it all starts
 ---
 

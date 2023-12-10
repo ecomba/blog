@@ -1,7 +1,7 @@
 ---
+layout: post
 title: The simple things
-header:
-  teaser: /assets/images/old_shool.jpg
+tags: past
 ---
 
 > We all have rosy memories of a simpler, happy time- a time of homemade apple pie and gingham curtains, a time when Mom understood everything and Dad could fix anything. "Let's get those traditional family values back!" we murmur to each other. Meanwhile, in a simultaneous universe, everyone I know, and every celebrity I don't know, is coming out of the closet to talk about how miserable they are because they grew up in dysfunctional families.

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: I'm back (or am I?)
-header:
-  teaser: /assets/images/marek.jpg
+tags: blogging
 ---
 
 > I do not ever hope to accumulate great funds of worldly wealth, but I shall accumulate something far more valuable, a store of wonderful memories. When I reach the twilight of life I shall look back and say I'm glad I lived as I did, life has been good to me.

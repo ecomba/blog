@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 published: false
 title: Example content
 ---

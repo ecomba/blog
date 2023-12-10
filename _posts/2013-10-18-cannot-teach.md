@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: You cannot teach someone to code in n-weeks
 tags: []
 comments: true

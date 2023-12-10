@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Love anything
-header:
-  teaser: /assets/images/love_anything.jpg
+tags: love
 ---
 
 > Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.

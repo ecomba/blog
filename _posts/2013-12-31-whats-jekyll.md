@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: What's Jekyll?
 published: false
 ---
