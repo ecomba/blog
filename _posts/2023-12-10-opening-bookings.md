@@ -6,7 +6,7 @@ sticky: true
 hidden: true
 ---
 
-> “Great ideas emerges from useless fragments of thoughts.”
+> “Great ideas emerge from useless fragments of thoughts.”
 > 
 > ~ Michael Bassey Johnson
 
