@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-14T10:07:39+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">“Coaching”</title><link href="http://localhost:4000/2023-12-14/coaching" rel="alternate" type="text/html" title="“Coaching”" /><published>2023-12-14T00:00:00+01:00</published><updated>2023-12-14T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-14/coaching</id><content type="html" xml:base="http://localhost:4000/2023-12-14/coaching"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-15T11:05:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">“What went wrong?”</title><link href="http://localhost:4000/2023-12-15/what-went-wrong" rel="alternate" type="text/html" title="“What went wrong?”" /><published>2023-12-15T00:00:00+01:00</published><updated>2023-12-15T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-15/what-went-wrong</id><content type="html" xml:base="http://localhost:4000/2023-12-15/what-went-wrong"><![CDATA[<blockquote>
+  <p>The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today.</p>
+
+  <p>~ Charles Hummell</p>
+</blockquote>
+
+<p>Do you remember when you first came into contact with agile software development?</p>
+
+<p>For me, it was somewhat in the late 90’s. I remember that time fondly. We worked in a high-stakes environment, creating software for Germany’s first online insurance company. We were experiencing high pressure, and the stakes for our clients for such a disruptive product were even higher.</p>
+
+<p>As one of the technical leads in our team, I was feeling the pressure; it was almost unbearable; something had to change.</p>
+
+<p>That’s when I came across the <a href="http://c2.com">c2 wiki</a>. I spent so much time absorbing the knowledge embedded in those pages; it changed me.</p>
+
+<p>Agile has always meant to be a change in your inner values, a joyful way of working, and ultimately focusing primarily on shipping software that matters.</p>
+
+<p>Over the last decade(s), there has been a tendency to focus on rituals and team topology practices, which, if dissected, don’t add to the company’s bottom line in any meaningful way.</p>
+
+<p>Are you overcomplicating your processes and teams? Is your software being shipped consistently?</p>
+
+<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you untangle the mess you’ve gotten into.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agile" /><category term="work" /><category term="software-development" /><summary type="html"><![CDATA[The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today. ~ Charles Hummell]]></summary></entry><entry><title type="html">“Coaching”</title><link href="http://localhost:4000/2023-12-14/coaching" rel="alternate" type="text/html" title="“Coaching”" /><published>2023-12-14T00:00:00+01:00</published><updated>2023-12-14T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-14/coaching</id><content type="html" xml:base="http://localhost:4000/2023-12-14/coaching"><![CDATA[<blockquote>
   <p>The only person you are destined to become is the person you decide to be.</p>
 
   <p>~ Ralph Waldo Emerson</p>
@@ -135,131 +155,4 @@ and I am constantly hustling, but I’ve noticed how my body is not responding t
 
 <p><img src="/assets/images/beanmind_logo_small.png" alt="image-left" class="align-left" /> My newest (ad)venture is called <a href="https://beanmind.com">Bean Mind</a>. Bean Mind’s purpose is helping the coffee roasting businesses work more efficiently. Even though people have been drinking coffee for ages, the speciality coffee roasting business is relatively young and processes are still in the making. If you are interested in learning more about what we are up to (as I am wirting this we haven’t lauched yet) you can head over to <a href="https://beanmind.com/blog">our blog</a> and read about our adventures there.</p>
 
-<p>Let’s hope I have renewed energy to post more often and share my shenanigans.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="blogging" /><summary type="html"><![CDATA[I do not ever hope to accumulate great funds of worldly wealth, but I shall accumulate something far more valuable, a store of wonderful memories. When I reach the twilight of life I shall look back and say I’m glad I lived as I did, life has been good to me. ~ Sigurd F. Olson]]></summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00+01:00</published><updated>2017-03-16T00:00:00+01:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.</p>
-
-<h1 id="headers">Headers</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gh"># H1</span>
-<span class="gu">## H2</span>
-<span class="gu">### H3</span>
-<span class="gu">#### H4</span>
-<span class="gu">##### H5</span>
-<span class="gu">###### H6</span></code></pre></figure>
-
-<h1 id="h1">H1</h1>
-<h2 id="h2">H2</h2>
-<h3 id="h3">H3</h3>
-<h4 id="h4">H4</h4>
-<h5 id="h5">H5</h5>
-<h6 id="h6">H6</h6>
-
-<h1 id="text-formatting">Text formatting</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">-</span> <span class="gs">**Bold**</span>
-<span class="p">-</span> _Italics_
-<span class="p">-</span> ~~Strikethrough~~
-<span class="p">-</span> <span class="nt">&lt;ins&gt;</span>Underline<span class="nt">&lt;/ins&gt;</span>
-<span class="p">-</span> <span class="nt">&lt;sup&gt;</span>Superscript<span class="nt">&lt;/sup&gt;</span>
-<span class="p">-</span> <span class="nt">&lt;sub&gt;</span>Subscript<span class="nt">&lt;/sub&gt;</span>
-<span class="p">-</span> Abbreviation: <span class="nt">&lt;abbr</span> <span class="na">title=</span><span class="s">"HyperText Markup Language"</span><span class="nt">&gt;</span>HTML<span class="nt">&lt;/abbr&gt;</span>
-<span class="p">-</span> Citation: <span class="nt">&lt;cite&gt;</span><span class="ni">&amp;mdash;</span> Chester How<span class="nt">&lt;/cite&gt;</span></code></pre></figure>
-
-<ul>
-  <li><strong>Bold</strong></li>
-  <li><em>Italics</em></li>
-  <li><del>Strikethrough</del></li>
-  <li><ins>Underline</ins></li>
-  <li><sup>Superscript</sup></li>
-  <li><sub>Subscript</sub></li>
-  <li>Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr></li>
-  <li>Citation: <cite>— Chester How</cite></li>
-</ul>
-
-<h1 id="lists">Lists</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">1.</span> Ordered list item 1
-<span class="p">2.</span> Ordered list item 2
-<span class="p">3.</span> Ordered list item 3
-<span class="p">
-*</span> Unordered list item 1
-<span class="p">*</span> Unordered list item 2
-<span class="p">*</span> Unordered list item 3</code></pre></figure>
-
-<ol>
-  <li>Ordered list item 1</li>
-  <li>Ordered list item 2</li>
-  <li>Ordered list item 3</li>
-</ol>
-
-<ul>
-  <li>Unordered list item 1</li>
-  <li>Unordered list item 2</li>
-  <li>Unordered list item 3</li>
-</ul>
-
-<h1 id="links">Links</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">Check out tale on <span class="p">[</span><span class="nv">GitHub</span><span class="p">](</span><span class="sx">https://github.com/chesterhow/tale</span><span class="p">)</span>.</code></pre></figure>
-
-<p>Check out tale on <a href="https://github.com/chesterhow/tale">GitHub</a>.</p>
-
-<h1 id="images">Images</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">![</span><span class="nv">Placeholder image</span><span class="p">](</span><span class="sx">https://placehold.it/800x400</span> <span class="nn">"Placeholder image"</span><span class="p">)</span>
-
-<span class="p">![</span><span class="nv">Image with caption</span><span class="p">](</span><span class="sx">https://placehold.it/700x400</span> <span class="nn">"Image with caption"</span><span class="p">)</span>
-<span class="ge">_This is an image with a caption_</span></code></pre></figure>
-
-<p><img src="https://placehold.it/800x400" alt="Placeholder image" title="Placeholder image" /></p>
-
-<p><img src="https://placehold.it/700x400" alt="Image with caption" title="Image with caption" />
-<em>This is an image with a caption</em></p>
-
-<h1 id="code-and-syntax-highlighting">Code and Syntax Highlighting</h1>
-<p>Use back-ticks for <code class="language-plaintext highlighter-rouge">inline code</code>. Multi-line code snippets are supported too through Pygments.</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Sample javascript code</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span></code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c1"># Sample python code
-</span><span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">Python syntax highlighting</span><span class="sh">"</span>
-<span class="k">print</span> <span class="n">s</span></code></pre></figure>
-
-<p>Adding <code class="language-plaintext highlighter-rouge">linenos</code> to the highlight tag enables line numbers.</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-</pre></td><td class="code"><pre><span class="c1">// Sample javascript code</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</pre></td></tr></tbody></table></code></pre></figure>
-
-<h1 id="blockquotes">Blockquotes</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gt">&gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</span></code></pre></figure>
-
-<blockquote>
-  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-</blockquote>
-
-<h1 id="horizontal-rule--line-break">Horizontal Rule &amp; Line Break</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">Use <span class="sb">`&lt;hr&gt;`</span> for horizontal rules
-
-<span class="nt">&lt;hr&gt;</span>
-
-and <span class="sb">`&lt;br&gt;`</span> for line breaks.
-
-<span class="nt">&lt;br&gt;</span></code></pre></figure>
-
-<p>Use <code class="language-plaintext highlighter-rouge">&lt;hr&gt;</code> for horizontal rules</p>
-
-<hr />
-
-<p>and <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> for line breaks.</p>
-
-<p><br /></p>
-
-<p><em>The end</em></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.]]></summary></entry></feed>
+<p>Let’s hope I have renewed energy to post more often and share my shenanigans.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="blogging" /><summary type="html"><![CDATA[I do not ever hope to accumulate great funds of worldly wealth, but I shall accumulate something far more valuable, a store of wonderful memories. When I reach the twilight of life I shall look back and say I’m glad I lived as I did, life has been good to me. ~ Sigurd F. Olson]]></summary></entry></feed>
