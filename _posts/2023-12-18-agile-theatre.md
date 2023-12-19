@@ -4,7 +4,7 @@ title:  Agile Theatre
 tags: agility development values
 ---
 
-> “Your values create your internal compass that can navigate how you make decisions in your life.”
+> Your values create your internal compass that can navigate how you make decisions in your life.
 > 
 > ~ Roy T. Bennett
 

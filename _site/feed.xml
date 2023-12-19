@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-18T09:57:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Agile Theatre</title><link href="http://localhost:4000/2023-12-18/agile-theatre" rel="alternate" type="text/html" title="Agile Theatre" /><published>2023-12-18T00:00:00+01:00</published><updated>2023-12-18T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-18/agile-theatre</id><content type="html" xml:base="http://localhost:4000/2023-12-18/agile-theatre"><![CDATA[<blockquote>
-  <p>“Your values create your internal compass that can navigate how you make decisions in your life.”</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-19T13:53:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Preparation</title><link href="http://localhost:4000/2023-12-19/preparation" rel="alternate" type="text/html" title="Preparation" /><published>2023-12-19T00:00:00+01:00</published><updated>2023-12-19T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-19/preparation</id><content type="html" xml:base="http://localhost:4000/2023-12-19/preparation"><![CDATA[<blockquote>
+  <p>By failing to prepare, you are preparing to fail.</p>
+
+  <p>~ Benjamin Franklin</p>
+</blockquote>
+
+<p>I’m working on preparing some courses for 2024. While doing so, I’m also looking at what’s available in the market.</p>
+
+<p>Most courses lack a thorough syllabus or the amount of time needed to absorb the knowledge to be prepared for the task the course is setting (or equipping) you to do. Some of them offer hands-on training, but many are just classroom-type classes.</p>
+
+<p>The first course I’ll be releasing (<em>hopefully soon</em>) is directed to <em>agile coaches</em> who are either about to start or with just a little time under their belts and want to improve their skills.</p>
+
+<p>It won’t give you a world-renowned certificate (<em>although I can create a certificate for you if you so desire</em>), but it will prepare you for the task at hand.</p>
+
+<p>One thing I’m also toying with is the availability of myself after you’ve completed the course. Many times, when we learn a new skill, once we’ve learned it, we are left alone to deal with our newly acquired knowledge; I want to change that (<em>not sure how I will make that happen yet though</em>)!</p>
+
+<p>If you are interested in knowing more, you have two options.</p>
+
+<p>You can wait and head over to <a href="https://ecomba.pro/courses">my website</a>
+, or you can <a href="mailto:info@ecomba.pro?subject=Tell me more about your courses">shoot me an email and ask me directly</a>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="courses" /><category term="agile" /><category term="coaching" /><summary type="html"><![CDATA[By failing to prepare, you are preparing to fail. ~ Benjamin Franklin]]></summary></entry><entry><title type="html">Agile Theatre</title><link href="http://localhost:4000/2023-12-18/agile-theatre" rel="alternate" type="text/html" title="Agile Theatre" /><published>2023-12-18T00:00:00+01:00</published><updated>2023-12-18T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-18/agile-theatre</id><content type="html" xml:base="http://localhost:4000/2023-12-18/agile-theatre"><![CDATA[<blockquote>
+  <p>Your values create your internal compass that can navigate how you make decisions in your life.</p>
 
   <p>~ Roy T. Bennett</p>
 </blockquote>
@@ -14,7 +33,7 @@
 
 <p>Are you process-heavy? Do you follow the agile theatre, but somehow, you aren’t very agile as a whole?</p>
 
-<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you figure this out.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agility" /><category term="development" /><category term="values" /><summary type="html"><![CDATA[“Your values create your internal compass that can navigate how you make decisions in your life.” ~ Roy T. Bennett]]></summary></entry><entry><title type="html">“What went wrong?”</title><link href="http://localhost:4000/2023-12-15/what-went-wrong" rel="alternate" type="text/html" title="“What went wrong?”" /><published>2023-12-15T00:00:00+01:00</published><updated>2023-12-15T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-15/what-went-wrong</id><content type="html" xml:base="http://localhost:4000/2023-12-15/what-went-wrong"><![CDATA[<blockquote>
+<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you figure this out.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agility" /><category term="development" /><category term="values" /><summary type="html"><![CDATA[Your values create your internal compass that can navigate how you make decisions in your life. ~ Roy T. Bennett]]></summary></entry><entry><title type="html">“What went wrong?”</title><link href="http://localhost:4000/2023-12-15/what-went-wrong" rel="alternate" type="text/html" title="“What went wrong?”" /><published>2023-12-15T00:00:00+01:00</published><updated>2023-12-15T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-15/what-went-wrong</id><content type="html" xml:base="http://localhost:4000/2023-12-15/what-went-wrong"><![CDATA[<blockquote>
   <p>The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today.</p>
 
   <p>~ Charles Hummell</p>
@@ -145,16 +164,4 @@ and I am constantly hustling, but I’ve noticed how my body is not responding t
 
 <p>Not everything is lost; this past month has taught me to get on with it, go to the gym, and work smarter! 💪🏽</p>
 
-<p>Small steps…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="health" /><summary type="html"><![CDATA[Most people who work for themselves have achieved work-life imbalance. ~ Mokokoma Mokhonoana]]></summary></entry><entry><title type="html">The simple things</title><link href="http://localhost:4000/2022-12-04/the-simple-things" rel="alternate" type="text/html" title="The simple things" /><published>2022-12-04T00:00:00+01:00</published><updated>2022-12-04T00:00:00+01:00</updated><id>http://localhost:4000/2022-12-04/the-simple-things</id><content type="html" xml:base="http://localhost:4000/2022-12-04/the-simple-things"><![CDATA[<blockquote>
-  <p>We all have rosy memories of a simpler, happy time- a time of homemade apple pie and gingham curtains, a time when Mom understood everything and Dad could fix anything. “Let’s get those traditional family values back!” we murmur to each other. Meanwhile, in a simultaneous universe, everyone I know, and every celebrity I don’t know, is coming out of the closet to talk about how miserable they are because they grew up in dysfunctional families.</p>
-
-  <p>~ Cynthia Heimel</p>
-</blockquote>
-
-<p>Since I was a little boy, I’ve been surrounded by technology, it all started when I was ten years old, and I got my first computer. It was a <a href="https://en.wikipedia.org/wiki/Dragon_32/64">old machine</a> without any games, so I was forced to learn how to program. I soon became enamoured with technology and programming languages; I was fascinated by the worlds and possibilities I suddenly had at my fingertips.</p>
-
-<p>Over time though, I lost my drive to program, <em>just for programming’s sake</em> and always looked for meaning: <em>“Why are we doing this?”, “What’s the purpose of this application?”, “Who will it help?”</em>.</p>
-
-<p><img src="/assets/images/bread_small.jpg" alt="image-right" class="align-right" />And then it changed yet again; even though I am surrounded by technology (<em>not just by the nature of my work, but all sorts of gadgets as well</em>), I love the simpler things in life. I love baking bread, cooking jam and marmalade, and preparing dishes with fresh ingredients daily.</p>
-
-<p>My home is a mixture of new and old, juxtaposing times, and I would not have it any other way.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="past" /><summary type="html"><![CDATA[We all have rosy memories of a simpler, happy time- a time of homemade apple pie and gingham curtains, a time when Mom understood everything and Dad could fix anything. “Let’s get those traditional family values back!” we murmur to each other. Meanwhile, in a simultaneous universe, everyone I know, and every celebrity I don’t know, is coming out of the closet to talk about how miserable they are because they grew up in dysfunctional families. ~ Cynthia Heimel]]></summary></entry></feed>
+<p>Small steps…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="health" /><summary type="html"><![CDATA[Most people who work for themselves have achieved work-life imbalance. ~ Mokokoma Mokhonoana]]></summary></entry></feed>
