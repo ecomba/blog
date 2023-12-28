@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Communication
+tags: musing communication
 ---
 
 > A wonderful fact to reflect upon, that every human creature is constituted

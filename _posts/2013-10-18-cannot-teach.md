@@ -1,8 +1,7 @@
 ---
 layout: post
 title: You cannot teach someone to code in n-weeks
-tags: []
-comments: true
+tags: teaching mentoring makers
 ---
 You read that right. Surprised? Challenged? 
 

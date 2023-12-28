@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing for the next developer
+tags: mentoring teaching makers
 ---
 The other day I was going through some code with [Evgeny](https://twitter.com/shadchnev) and we had a discussion about the *[cleanness](http://stackoverflow.com/questions/954570/definition-of-clean-code)* of it. The code in question was by no means wrong or anything, but it *felt* strange.
 

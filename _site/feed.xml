@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-24T10:56:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Christmas</title><link href="http://localhost:4000/2023-12-24/christmas" rel="alternate" type="text/html" title="Christmas" /><published>2023-12-24T00:00:00+01:00</published><updated>2023-12-24T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-24/christmas</id><content type="html" xml:base="http://localhost:4000/2023-12-24/christmas"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-28T15:56:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Practice and Preparation</title><link href="http://localhost:4000/2023-12-28/practice-and-preparation" rel="alternate" type="text/html" title="Practice and Preparation" /><published>2023-12-28T00:00:00+01:00</published><updated>2023-12-28T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-28/practice-and-preparation</id><content type="html" xml:base="http://localhost:4000/2023-12-28/practice-and-preparation"><![CDATA[<blockquote>
+  <p>Agility requires practice and preparation.</p>
+
+  <p>~ Joshua Kerievsky, <a href="https://joyofagility.com">Joy of Agility</a></p>
+</blockquote>
+
+<p>During my Christmas break, I am catching up with my reading, spending time reading the books I had set aside a while ago.</p>
+
+<p>One of these books is <a href="https://joyofagility.com"><strong>Joy of Agility</strong></a> by <a href="https://www.industriallogic.com/people/joshua/">Joshua Kerievsky</a>. Having worked with Joshua a few years ago, I was thrilled to see him release this book after all the great work he’s been doing with <a href="https://modernagile.org">Modern Agile</a>.</p>
+
+<p>I’m not going to talk about his book just yet (I’ll leave that review to when I finish reading it), but I wanted to highlight this quote as it resonated with me and the way I feel about agility.</p>
+
+<p>Many people think that being agile is <em>just</em> following a set of practices.</p>
+
+<blockquote>
+  <p>”If we follow these practices dictated by method <strong>S</strong> we will succeed in being <strong>A</strong>gile” (<em>or so the mantra goes</em>)</p>
+</blockquote>
+
+<p>Nothing could be further from the truth; agile is much more than a set of practices, but that’s for another day…</p>
+
+<p>Being agile requires you to be good at what you do. You practice daily when your skills are needed to perform without overthinking about it.</p>
+
+<p>Years ago, I was giving a class on <a href="https://www.industriallogic.com/blog/evolutionary-design/"><em>Evolutionary design</em></a> when one of the students told me that this way of working didn’t make much sense unless you know what you want at the end. I asked them what they meant by that. It turns out they didn’t trust their skills and intuition to take them on a journey to explore and code their design as it came along.</p>
+
+<blockquote>
+  <p>The lack of (<em>coding</em>) practice was a barrier to entry for this technique.</p>
+</blockquote>
+
+<p>This happens with other methods, too; they feel awkward to start, and you will always feel challenged when trying them out without training.</p>
+
+<p>Do you need help with any agile techniques you want to use at your workplace?</p>
+
+<p><a href="mailto:info@ecomba.pro?subject=Help me with agile">Shoot me an email</a>, and we can discuss how I can help you and your team become more agile!</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agile" /><summary type="html"><![CDATA[Agility requires practice and preparation. ~ Joshua Kerievsky, Joy of Agility]]></summary></entry><entry><title type="html">Christmas</title><link href="http://localhost:4000/2023-12-24/christmas" rel="alternate" type="text/html" title="Christmas" /><published>2023-12-24T00:00:00+01:00</published><updated>2023-12-24T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-24/christmas</id><content type="html" xml:base="http://localhost:4000/2023-12-24/christmas"><![CDATA[<blockquote>
   <p>Christmas, children, is not a date. It is a state of mind.</p>
 
   <p>~ Mary Ellen Chase</p>
@@ -51,7 +83,7 @@
 
 <p>Are you process-heavy? Do you follow the agile theatre, but somehow, you aren’t very agile as a whole?</p>
 
-<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you figure this out.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agility" /><category term="development" /><category term="values" /><summary type="html"><![CDATA[Your values create your internal compass that can navigate how you make decisions in your life. ~ Roy T. Bennett]]></summary></entry><entry><title type="html">“What went wrong?”</title><link href="http://localhost:4000/2023-12-15/what-went-wrong" rel="alternate" type="text/html" title="“What went wrong?”" /><published>2023-12-15T00:00:00+01:00</published><updated>2023-12-15T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-15/what-went-wrong</id><content type="html" xml:base="http://localhost:4000/2023-12-15/what-went-wrong"><![CDATA[<blockquote>
+<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you figure this out.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agility" /><category term="development" /><category term="values" /><summary type="html"><![CDATA[Your values create your internal compass that can navigate how you make decisions in your life. ~ Roy T. Bennett]]></summary></entry><entry><title type="html">What went wrong?</title><link href="http://localhost:4000/2023-12-15/what-went-wrong" rel="alternate" type="text/html" title="What went wrong?" /><published>2023-12-15T00:00:00+01:00</published><updated>2023-12-15T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-15/what-went-wrong</id><content type="html" xml:base="http://localhost:4000/2023-12-15/what-went-wrong"><![CDATA[<blockquote>
   <p>The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today.</p>
 
   <p>~ Charles Hummell</p>
@@ -71,7 +103,7 @@
 
 <p>Are you overcomplicating your processes and teams? Is your software being shipped consistently?</p>
 
-<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you untangle the mess you’ve gotten into.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agile" /><category term="work" /><category term="software-development" /><summary type="html"><![CDATA[The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today. ~ Charles Hummell]]></summary></entry><entry><title type="html">“Coaching”</title><link href="http://localhost:4000/2023-12-14/coaching" rel="alternate" type="text/html" title="“Coaching”" /><published>2023-12-14T00:00:00+01:00</published><updated>2023-12-14T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-14/coaching</id><content type="html" xml:base="http://localhost:4000/2023-12-14/coaching"><![CDATA[<blockquote>
+<p><a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">Let’s talk</a> about your challenges; I know I can help you untangle the mess you’ve gotten into.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="agile" /><category term="work" /><category term="software-development" /><summary type="html"><![CDATA[The past cannot be regained, although we can learn from it; the future is not yet ours even though we must plan for it… Time is now. We have only today. ~ Charles Hummell]]></summary></entry><entry><title type="html">Coaching</title><link href="http://localhost:4000/2023-12-14/coaching" rel="alternate" type="text/html" title="Coaching" /><published>2023-12-14T00:00:00+01:00</published><updated>2023-12-14T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-14/coaching</id><content type="html" xml:base="http://localhost:4000/2023-12-14/coaching"><![CDATA[<blockquote>
   <p>The only person you are destined to become is the person you decide to be.</p>
 
   <p>~ Ralph Waldo Emerson</p>
@@ -87,7 +119,7 @@
 
 <p><strong>What kind of coach do you need?</strong></p>
 
-<p><strong>P.S.</strong>: <em>If you are currently coaching teams and would like to be coached to become better at what you do, you can always <a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">reach out to me</a>, and we’ll figure something out</em>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="coaching" /><category term="work" /><summary type="html"><![CDATA[The only person you are destined to become is the person you decide to be. ~ Ralph Waldo Emerson]]></summary></entry><entry><title type="html">“Anga!”</title><link href="http://localhost:4000/2023-12-13/anga" rel="alternate" type="text/html" title="“Anga!”" /><published>2023-12-13T00:00:00+01:00</published><updated>2023-12-13T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-13/anga</id><content type="html" xml:base="http://localhost:4000/2023-12-13/anga"><![CDATA[<blockquote>
+<p><strong>P.S.</strong>: <em>If you are currently coaching teams and would like to be coached to become better at what you do, you can always <a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">reach out to me</a>, and we’ll figure something out</em>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="coaching" /><category term="work" /><summary type="html"><![CDATA[The only person you are destined to become is the person you decide to be. ~ Ralph Waldo Emerson]]></summary></entry><entry><title type="html">Anga!</title><link href="http://localhost:4000/2023-12-13/anga" rel="alternate" type="text/html" title="Anga!" /><published>2023-12-13T00:00:00+01:00</published><updated>2023-12-13T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-13/anga</id><content type="html" xml:base="http://localhost:4000/2023-12-13/anga"><![CDATA[<blockquote>
   <p>Speak when you are angry, and you will make the best speech you will ever regret.</p>
 
   <p>~ Ambrose Bierce</p>
@@ -111,7 +143,7 @@
   <li>It’s always better to reply than to keep silent (<em>you know how you feel when someone doesn’t answer your emails, calls, messages, etc.</em>).</li>
 </ul>
 
-<p>If you wonder how the story with the angry mailer ended, he apologised (<em>in his way</em>) and clarified where he was coming from… which could be a different blog post, so I’m leaving that for tomorrow…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="musings" /><category term="emotions" /><summary type="html"><![CDATA[Speak when you are angry, and you will make the best speech you will ever regret. ~ Ambrose Bierce]]></summary></entry><entry><title type="html">“A better team”</title><link href="http://localhost:4000/2023-12-12/a-better-team" rel="alternate" type="text/html" title="“A better team”" /><published>2023-12-12T00:00:00+01:00</published><updated>2023-12-12T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-12/a-better-team</id><content type="html" xml:base="http://localhost:4000/2023-12-12/a-better-team"><![CDATA[<p>Over the last ten years (<em>way more, but who’s counting 😅</em>), I’ve been thinking about a tool to help agile coaches and teams without a coach.</p>
+<p>If you wonder how the story with the angry mailer ended, he apologised (<em>in his way</em>) and clarified where he was coming from… which could be a different blog post, so I’m leaving that for tomorrow…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="musings" /><category term="emotions" /><summary type="html"><![CDATA[Speak when you are angry, and you will make the best speech you will ever regret. ~ Ambrose Bierce]]></summary></entry><entry><title type="html">A better team</title><link href="http://localhost:4000/2023-12-12/a-better-team" rel="alternate" type="text/html" title="A better team" /><published>2023-12-12T00:00:00+01:00</published><updated>2023-12-12T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-12/a-better-team</id><content type="html" xml:base="http://localhost:4000/2023-12-12/a-better-team"><![CDATA[<p>Over the last ten years (<em>way more, but who’s counting 😅</em>), I’ve been thinking about a tool to help agile coaches and teams without a coach.</p>
 
 <p>I had this problem a while ago when I started coaching and got my first few clients; <em>“How do I keep organised?”</em>, <em>“How do I share insights or activities with the teams?”</em></p>
 
@@ -155,15 +187,4 @@ started to prepare some courses for this coming year.</p>
 <p>So, without further ado, let me redirect you to my <a href="https://ecomba.pro">coaching site</a>!</p>
 
 <p>Look around, and if you see something you like (<em>or you want to talk to me</em>), don’t hesitate to 
-<a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">book a call</a> over there!</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="work" /><category term="coaching" /><category term="consulting" /><summary type="html"><![CDATA[“Great ideas emerge from useless fragments of thoughts.” ~ Michael Bassey Johnson]]></summary></entry><entry><title type="html">Measure and adapt</title><link href="http://localhost:4000/2022-12-10/health" rel="alternate" type="text/html" title="Measure and adapt" /><published>2022-12-10T00:00:00+01:00</published><updated>2022-12-10T00:00:00+01:00</updated><id>http://localhost:4000/2022-12-10/health</id><content type="html" xml:base="http://localhost:4000/2022-12-10/health"><![CDATA[<blockquote>
-  <p>The truth about life and lie about life is not measured by others but by your intuition, 
-which never lies.” 
-~ Santosh Kalwar</p>
-</blockquote>
-
-<p>Recently I’ve been feeling low in physical energy. My mental energy levels are really high
-and I am constantly hustling, but I’ve noticed how my body is not responding the way I would like to.</p>
-
-<p>Afternoon naps (<em>after lunch</em>) have become a must and my breaks are more often then they used to be.</p>
-
-<p>This got me a little worried and I decided to get an app to help me measure my health levels a little more accurately and figure out what’s going on.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><summary type="html"><![CDATA[The truth about life and lie about life is not measured by others but by your intuition, which never lies.” ~ Santosh Kalwar]]></summary></entry></feed>
+<a href="https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen">book a call</a> over there!</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="work" /><category term="coaching" /><category term="consulting" /><summary type="html"><![CDATA[“Great ideas emerge from useless fragments of thoughts.” ~ Michael Bassey Johnson]]></summary></entry></feed>

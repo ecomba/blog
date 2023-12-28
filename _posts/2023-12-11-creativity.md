@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creativity"
+title:  Creativity
 tags: creativity
 ---
 

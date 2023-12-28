@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Merry Christmas
+tags: musing
 ---
 I was about to open my email client and start sending Christmas emails to everyone I know. Then I thought that maybe I should first write this blog post.
 

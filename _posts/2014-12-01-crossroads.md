@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crossroads
+tags: musing
 ---
 
 > Wherever you go becomes a part of you somehow

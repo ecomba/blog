@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Work with me in 2024!"
+title:  Work with me in 2024!
 tags: work coaching consulting
 sticky: true
 hidden: true

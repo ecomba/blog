@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How it all starts
+tags: musing
 ---
 
 When I had the idea for [patheleven](http://patheleven.com) I wanted to bring

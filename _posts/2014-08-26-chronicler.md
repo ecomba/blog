@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing chronicler
+tags: musing
 ---
 
 So [yesterday I announced](/2014/08/25/100-days/) the idea [Roi](http://roidriscoll.github.io) and me had about committing every day to [github](http://github.com).

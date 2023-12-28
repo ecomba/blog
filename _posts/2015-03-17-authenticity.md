@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Autenticity
+title: Authenticity
+tags: musing
 ---
 
 Authenticity is ones degree to which you are true to your own personality despite external pressures.

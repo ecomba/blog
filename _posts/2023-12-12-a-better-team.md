@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “A better team”
+title:  A better team
 tags: ideas coaching
 ---
 

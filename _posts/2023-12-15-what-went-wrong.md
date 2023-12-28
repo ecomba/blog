@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “What went wrong?”
+title:  What went wrong?
 tags: agile work software-development
 ---
 

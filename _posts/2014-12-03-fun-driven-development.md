@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FDD - Fun Driven Development
+tags: musing fun fdd development
 ---
 
 Laughing and having a good time is known to help in working and getting 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An uphill battle
+tags: resistance comfort
 ---
 > Our doubts are traitors,
 > and make us lose the good we oft might win,
