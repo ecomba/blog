@@ -22,4 +22,4 @@ So, now we are at the end of 2023, and my tool isn’t there yet, but I’ve got
 
 ### I would love to hear from you and see your needs for your coaching business or team!
 
-**[Let’s talk!](https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen)**
+**[Let’s talk!](https://calendly.com/ecomba/free-consultation)**

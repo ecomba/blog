@@ -18,4 +18,4 @@ The values a company and its people adhere to dictate directly how adaptable to 
 
 Are you process-heavy? Do you follow the agile theatre, but somehow, you aren’t very agile as a whole?
 
-[Let’s talk](https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen) about your challenges; I know I can help you figure this out.
+[Let’s talk](https://calendly.com/ecomba/free-consultation) about your challenges; I know I can help you figure this out.

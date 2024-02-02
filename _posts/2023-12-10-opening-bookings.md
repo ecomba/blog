@@ -19,4 +19,4 @@ started to prepare some courses for this coming year.
 So, without further ado, let me redirect you to my [coaching site](https://ecomba.pro)!
 
 Look around, and if you see something you like (_or you want to talk to me_), don’t hesitate to 
-[book a call](https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen) over there!
+[book a call](https://calendly.com/ecomba/free-consultation) over there!

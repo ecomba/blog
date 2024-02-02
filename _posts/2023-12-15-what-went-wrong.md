@@ -22,4 +22,4 @@ Over the last decade(s), there has been a tendency to focus on rituals and team 
 
 Are you overcomplicating your processes and teams? Is your software being shipped consistently?
 
-[Let’s talk](https://meetings-eu1.hubspot.com/enrique-comba-riepenhausen) about your challenges; I know I can help you untangle the mess you’ve gotten into.
+[Let’s talk](https://calendly.com/ecomba/free-consultation) about your challenges; I know I can help you untangle the mess you’ve gotten into.
