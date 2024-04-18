@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-17T21:26:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Writing</title><link href="http://localhost:4000/2024-04-17/writing" rel="alternate" type="text/html" title="Writing" /><published>2024-04-17T00:00:00+02:00</published><updated>2024-04-17T00:00:00+02:00</updated><id>http://localhost:4000/2024-04-17/writing</id><content type="html" xml:base="http://localhost:4000/2024-04-17/writing"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-18T17:07:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Shaped</title><link href="http://localhost:4000/2024-04-18/shaped" rel="alternate" type="text/html" title="Shaped" /><published>2024-04-18T00:00:00+02:00</published><updated>2024-04-18T00:00:00+02:00</updated><id>http://localhost:4000/2024-04-18/shaped</id><content type="html" xml:base="http://localhost:4000/2024-04-18/shaped"><![CDATA[<blockquote>
+  <p>I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees 
+some creation of the brain unfolding to success… such emotions make a man forget food, sleep, friends, love, everything.</p>
+
+  <p>~ Nikola Tesla</p>
+</blockquote>
+
+<p>This year I started working, mostly as a hobby (<em>for the moment</em>) on a product management tool for companies using the
+<a href="https://basecamp.com/shapeup">Shape Up</a> methodology.</p>
+
+<p>I’ve been using <a href="https://basecamp.com/shapeup">Shape Up</a> in a few companies now and I really appreciate how this 
+method of working changes the way you think and operate as you work on your product.</p>
+
+<p>It’s hard to pinpoint what it really is, it’s a sense of calm (and yet there are definite deadlines to be met), the
+freedom of choice when building, and generally speaking the maturity it requires from the team you get as you work.</p>
+
+<p>I’m trying to write more about it (<em>and the building of the product</em>) on a <a href="https://shapeup.work">separate blog</a>.
+If you are interested in following the journey along with me head <a href="https://shapeup.work">over there</a> or even better, 
+<a href="mailto:hello@ecomba.pro">email me</a>!</p>
+
+<p>At the moment it’s still closed to the public, but if you’d be interested to give it a try (<em>once I think it’s ready for it</em>)
+just <a href="mailto:hello@ecomba.pro">hola me</a>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="saas" /><category term="product" /><category term="software" /><summary type="html"><![CDATA[I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success… such emotions make a man forget food, sleep, friends, love, everything. ~ Nikola Tesla]]></summary></entry><entry><title type="html">Writing</title><link href="http://localhost:4000/2024-04-17/writing" rel="alternate" type="text/html" title="Writing" /><published>2024-04-17T00:00:00+02:00</published><updated>2024-04-17T00:00:00+02:00</updated><id>http://localhost:4000/2024-04-17/writing</id><content type="html" xml:base="http://localhost:4000/2024-04-17/writing"><![CDATA[<blockquote>
   <p>The secret of change is to focus all of your energy, not on fighting the old, but on building the new.</p>
 
   <p>~ Socrates</p>
@@ -185,15 +206,4 @@ team?</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hell
 
 <h3 id="i-would-love-to-hear-from-you-and-see-your-needs-for-your-coaching-business-or-team">I would love to hear from you and see your needs for your coaching business or team!</h3>
 
-<p><strong><a href="https://calendly.com/ecomba/free-consultation">Let’s talk!</a></strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="ideas" /><category term="coaching" /><summary type="html"><![CDATA[Over the last ten years (way more, but who’s counting 😅), I’ve been thinking about a tool to help agile coaches and teams without a coach.]]></summary></entry><entry><title type="html">Creativity</title><link href="http://localhost:4000/2023-12-11/creativity" rel="alternate" type="text/html" title="Creativity" /><published>2023-12-11T00:00:00+01:00</published><updated>2023-12-11T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-11/creativity</id><content type="html" xml:base="http://localhost:4000/2023-12-11/creativity"><![CDATA[<p>While having coffee again this morning, I came across this image (from <em>@WisdomMadeEasy</em>).</p>
-
-<p><img src="/assets/images/creativity.jpeg" alt="Creativity" /></p>
-
-<p>It speaks volumes!</p>
-
-<p>When we try to cage creativity into a closed environment (<em>like in a meeting-like setting</em>), it hardly ever flows.
-Then, we go for a walk in a park by the side of a brook, our brain seemingly tapping into a limitless source 
-of it.</p>
-
-<p>Maybe next time you want to schedule a meeting to “<em>be creative together</em>” instead of meeting, let your people go 
-for an extended walk and see what they’ve come up with afterwards!</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="creativity" /><summary type="html"><![CDATA[While having coffee again this morning, I came across this image (from @WisdomMadeEasy).]]></summary></entry></feed>
+<p><strong><a href="https://calendly.com/ecomba/free-consultation">Let’s talk!</a></strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="ideas" /><category term="coaching" /><summary type="html"><![CDATA[Over the last ten years (way more, but who’s counting 😅), I’ve been thinking about a tool to help agile coaches and teams without a coach.]]></summary></entry></feed>
