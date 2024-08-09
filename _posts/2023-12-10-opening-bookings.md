@@ -2,7 +2,7 @@
 layout: post
 title:  Work with me in 2024!
 tags: work coaching consulting
-sticky: true
+sticky: false
 hidden: true
 ---
 

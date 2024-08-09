@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-18T17:07:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Shaped</title><link href="http://localhost:4000/2024-04-18/shaped" rel="alternate" type="text/html" title="Shaped" /><published>2024-04-18T00:00:00+02:00</published><updated>2024-04-18T00:00:00+02:00</updated><id>http://localhost:4000/2024-04-18/shaped</id><content type="html" xml:base="http://localhost:4000/2024-04-18/shaped"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-09T09:47:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Technical Debt</title><link href="http://localhost:4000/2024-08-09/technical-debt" rel="alternate" type="text/html" title="Technical Debt" /><published>2024-08-09T00:00:00+02:00</published><updated>2024-08-09T00:00:00+02:00</updated><id>http://localhost:4000/2024-08-09/technical-debt</id><content type="html" xml:base="http://localhost:4000/2024-08-09/technical-debt"><![CDATA[<blockquote>
+  <p>You cannot spend your way out of recession or borrow your way out of debt.</p>
+
+  <p>~ Daniel Hannan</p>
+</blockquote>
+
+<p>Today, while hanging out in <a href="https://en.wikipedia.org/wiki/Mastodon_(social_network)" target="_blank">Mastodon</a>
+(<em>as I do when I am having my morning coffee</em>), I came across a post from <a href="https://ronjeffries.com" target="_blank">Ron Jeffries</a>
+(<em>and <a href="http://c2.com" target="blank">Ward Cunningham’s</a> answer to it – there were more people commenting though</em>).</p>
+
+<p><img src="/assets/images/ron-ward-masto.jpg" width="45%" /></p>
+
+<p>Many teams I work with usually blame the state of their codebase to Technical Debt. This usually leads to a group
+discussion, where I try to understand their current state and their desired state for their codebase. During these
+discussions it’s important to actively listen to the teams and understand their particular context.</p>
+
+<p>What I usually find is that there is a misunderstanding of what Technical Debt really is; or rather, how Ward coined the
+concept when he did back in the early 1990s.</p>
+
+<h2 id="the-origins-of-technical-debt">The Origins of Technical Debt</h2>
+
+<p>Ward introduced the concept of technical debt in the early 1990s. He used the metaphor of technical debt to explain how developers sometimes take shortcuts to meet deadlines, with the understanding that they will have to come back later to clean up the code.</p>
+
+<p>Ward’s initial analogy compared the debt incurred by developers to financial debt. Just as financial debt can be a useful tool for growth if managed properly, technical debt can be a strategic decision in software development. However, if not managed carefully, both types of debt can lead to significant problems.</p>
+
+<h3 id="deliberate-technical-debt">Deliberate Technical Debt</h3>
+
+<p>Wards’ analogy describes when a team knowingly takes on technical debt, often to meet a tight deadline or to quickly test a new feature.
+The team is aware of the trade-offs and plans to address the debt later. It is, in its essence, a strategy to meet the
+business demands in the short term, with an action plan for repayment.</p>
+
+<p><strong><em>Sadly, in most teams, this is not the case.</em></strong></p>
+
+<p>Most teams treat Technical Debt as <strong><em>Accidental Debt</em></strong>, the unintentional debt, often due to lack of knowledge, 
+experience, or poor practices. This can be particularly dangerous because it often goes unnoticed until it causes significant problems.</p>
+
+<p>Other times we find that over time, as new features are added to a codebase, it can become less coherent and harder to maintain. 
+This gradual decline is often referred to as <strong><em>Bit Rot</em></strong>.</p>
+
+<p>If you look closely at Wards reply to Ron on Mastodon, it is clear that in his view Accidental Debt and Bit Rot where 
+never part of the Technical Debt metaphor (<em>as coined by him</em>).</p>
+
+<p><strong><em>Accidental Debt and Bit Rot are a state you find yourself in and not a business strategy.</em></strong></p>
+
+<h2 id="the-cost-of-ignoring-technical-debt">The Cost of Ignoring Technical Debt</h2>
+
+<p>Technical debt, like financial debt, carries interest. 
+If technical debt is not addressed, the cost of maintaining and extending the codebase increases over time.</p>
+
+<p>This “interest” can take many forms:</p>
+
+<ul>
+  <li><strong>Increased complexity</strong>: As the codebase becomes more tangled, developers spend more time understanding and navigating the code, which slows down development.</li>
+  <li><strong>More bugs</strong>: Quick fixes and shortcuts often introduce new bugs, leading to more time spent on debugging and troubleshooting.</li>
+  <li><strong>Reduced agility</strong>: A codebase burdened with technical debt is harder to modify, making it difficult to respond quickly to new requirements or changes in the market.</li>
+</ul>
+
+<p>If technical debt is ignored for too long, the cost of addressing it can become overwhelming, leading to a situation 
+where the development team is stuck in a cycle of “paying off the interest” without ever making progress.</p>
+
+<h2 id="how-do-you-manage-technical-debt">How do you manage technical debt?</h2>
+
+<p>The key is not to avoid technical debt altogether but to manage it wisely.</p>
+
+<ol>
+  <li>The first step is to be transparent about the technical decisions you take as a team and the dept you might be incurring.</li>
+  <li>Not all technical debt needs to be paid off immediately. Teams should prioritize which debt is most critical to address based on factors like its impact on the codebase and the project’s long-term goals.</li>
+  <li>Regular refactoring as a way to pay down technical debt incrementally. By continuously improving the codebase, teams can prevent debt from accumulating to unmanageable levels.</li>
+  <li>One of the biggest challenges in managing technical debt is getting buy-in from stakeholders. Educating non-technical stakeholders about the concept of technical debt and the long-term benefits of addressing it will go a long way. It also helps to keep the discussions about technical decisions open and bring the non-technical team members into the fold.</li>
+</ol>
+
+<p><strong><em>Ultimately, the goal is not to avoid technical debt entirely, but to make sure it is a conscious, well-managed part of the development process.</em></strong></p>
+
+<h1 id="need-help-managing-your-technical-debt">Need Help Managing Your Technical Debt?</h1>
+
+<p>I specialize in helping teams identify, manage, and reduce technical debt, enabling you to maintain agility and keep your projects on track. Whether you need a comprehensive assessment of your codebase, targeted refactoring, or guidance on best practices, I can provide the expertise you need to address technical debt effectively.</p>
+
+<p>Don’t let technical debt hold you back. <a href="https://calendly.com/ecomba/free-consultation" target="_blank">Contact me today</a> to discuss how we can work together to optimize your codebase and future-proof your software for success.</p>
+
+<p><strong>Let’s make sure your team is building on a solid foundation!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="development" /><category term="design" /><category term="real-options" /><category term="software" /><summary type="html"><![CDATA[You cannot spend your way out of recession or borrow your way out of debt. ~ Daniel Hannan]]></summary></entry><entry><title type="html">Shaped</title><link href="http://localhost:4000/2024-04-18/shaped" rel="alternate" type="text/html" title="Shaped" /><published>2024-04-18T00:00:00+02:00</published><updated>2024-04-18T00:00:00+02:00</updated><id>http://localhost:4000/2024-04-18/shaped</id><content type="html" xml:base="http://localhost:4000/2024-04-18/shaped"><![CDATA[<blockquote>
   <p>I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees 
 some creation of the brain unfolding to success… such emotions make a man forget food, sleep, friends, love, everything.</p>
 
@@ -188,22 +267,4 @@ team?</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hell
   <li>It’s always better to reply than to keep silent (<em>you know how you feel when someone doesn’t answer your emails, calls, messages, etc.</em>).</li>
 </ul>
 
-<p>If you wonder how the story with the angry mailer ended, he apologised (<em>in his way</em>) and clarified where he was coming from… which could be a different blog post, so I’m leaving that for tomorrow…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="musings" /><category term="emotions" /><summary type="html"><![CDATA[Speak when you are angry, and you will make the best speech you will ever regret. ~ Ambrose Bierce]]></summary></entry><entry><title type="html">A better team</title><link href="http://localhost:4000/2023-12-12/a-better-team" rel="alternate" type="text/html" title="A better team" /><published>2023-12-12T00:00:00+01:00</published><updated>2023-12-12T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-12/a-better-team</id><content type="html" xml:base="http://localhost:4000/2023-12-12/a-better-team"><![CDATA[<p>Over the last ten years (<em>way more, but who’s counting 😅</em>), I’ve been thinking about a tool to help agile coaches and teams without a coach.</p>
-
-<p>I had this problem a while ago when I started coaching and got my first few clients; <em>“How do I keep organised?”</em>, <em>“How do I share insights or activities with the teams?”</em></p>
-
-<p>I always ended up using a mixture of different tools to keep myself organised. The problem with that (<em>at least for me</em>) is that I end up misplacing important information, missing key insights (<em>or spending too much time studying my notes</em>), making me work harder than I could.</p>
-
-<p>A few years back, <a href="https://twitter.com/sbastn">Sebastian Hermida</a> created an excellent (and free) tool based on <a href="http://www.jamesshore.com">James Shores’</a> “Agile Self Assessment Quiz” (from the first edition of his book “<a href="http://www.jamesshore.com/v2/books/aoad2">The Art of Agile Software Development</a>”).</p>
-
-<p>Since then, though, it’s offline 😞.</p>
-
-<p>Talking to Sebastian (<em>this is now about three years ago</em>), I asked him if I could use the name of the original domain he used as I wanted to create tools around agile coaching and helping teams get coaching. He gave me the green light to do whatever I liked with that domain.</p>
-
-<p>So, now we are at the end of 2023, and my tool isn’t there yet, but I’ve got some renewed strength, and I’m seriously thinking of making this happen and scratching that old itch I have.</p>
-
-<p><strong>Are you an agile coach?</strong> <strong>Are you in a team that needs coaching?</strong></p>
-
-<h3 id="i-would-love-to-hear-from-you-and-see-your-needs-for-your-coaching-business-or-team">I would love to hear from you and see your needs for your coaching business or team!</h3>
-
-<p><strong><a href="https://calendly.com/ecomba/free-consultation">Let’s talk!</a></strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="ideas" /><category term="coaching" /><summary type="html"><![CDATA[Over the last ten years (way more, but who’s counting 😅), I’ve been thinking about a tool to help agile coaches and teams without a coach.]]></summary></entry></feed>
+<p>If you wonder how the story with the angry mailer ended, he apologised (<em>in his way</em>) and clarified where he was coming from… which could be a different blog post, so I’m leaving that for tomorrow…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="musings" /><category term="emotions" /><summary type="html"><![CDATA[Speak when you are angry, and you will make the best speech you will ever regret. ~ Ambrose Bierce]]></summary></entry></feed>
