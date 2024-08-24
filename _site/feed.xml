@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-09T09:47:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Technical Debt</title><link href="http://localhost:4000/2024-08-09/technical-debt" rel="alternate" type="text/html" title="Technical Debt" /><published>2024-08-09T00:00:00+02:00</published><updated>2024-08-09T00:00:00+02:00</updated><id>http://localhost:4000/2024-08-09/technical-debt</id><content type="html" xml:base="http://localhost:4000/2024-08-09/technical-debt"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-24T10:15:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Enrique’s Musings</title><subtitle>Where I ponder about matters that pop into my headspace</subtitle><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><entry><title type="html">Blogging</title><link href="http://localhost:4000/2024-08-12/new-blog-location" rel="alternate" type="text/html" title="Blogging" /><published>2024-08-12T00:00:00+02:00</published><updated>2024-08-12T00:00:00+02:00</updated><id>http://localhost:4000/2024-08-12/new-blog-location</id><content type="html" xml:base="http://localhost:4000/2024-08-12/new-blog-location"><![CDATA[<blockquote>
+  <p>Up to a point you welcome being interrupted because it is only by interacting with other people that you 
+get anything interesting done.</p>
+
+  <p>~ Ken Robinson</p>
+</blockquote>
+
+<p>You might have noticed, or you might have not…</p>
+
+<p>I’ve been changing things up on my website and I’ve decided to move my blogging out and into my new platform. I’ll leave
+this blog untouched (<em>so we don’t lose all the blob posts I’ve written over time</em>).</p>
+
+<p><strong>From now on I’ll be posting here: <a href="https://ecomba.pro/publications/blog">https://ecomba.pro/publications/blog</a>.</strong></p>
+
+<p><strong>And as always, have a wonderful day!</strong></p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><summary type="html"><![CDATA[Up to a point you welcome being interrupted because it is only by interacting with other people that you get anything interesting done. ~ Ken Robinson]]></summary></entry><entry><title type="html">Technical Debt</title><link href="http://localhost:4000/2024-08-09/technical-debt" rel="alternate" type="text/html" title="Technical Debt" /><published>2024-08-09T00:00:00+02:00</published><updated>2024-08-09T00:00:00+02:00</updated><id>http://localhost:4000/2024-08-09/technical-debt</id><content type="html" xml:base="http://localhost:4000/2024-08-09/technical-debt"><![CDATA[<blockquote>
   <p>You cannot spend your way out of recession or borrow your way out of debt.</p>
 
   <p>~ Daniel Hannan</p>
@@ -243,28 +257,4 @@ team?</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hell
 
 <p><strong>What kind of coach do you need?</strong></p>
 
-<p><strong>P.S.</strong>: <em>If you are currently coaching teams and would like to be coached to become better at what you do, you can always <a href="https://calendly.com/ecomba/free-consultation">reach out to me</a>, and we’ll figure something out</em>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="coaching" /><category term="work" /><summary type="html"><![CDATA[The only person you are destined to become is the person you decide to be. ~ Ralph Waldo Emerson]]></summary></entry><entry><title type="html">Anga!</title><link href="http://localhost:4000/2023-12-13/anga" rel="alternate" type="text/html" title="Anga!" /><published>2023-12-13T00:00:00+01:00</published><updated>2023-12-13T00:00:00+01:00</updated><id>http://localhost:4000/2023-12-13/anga</id><content type="html" xml:base="http://localhost:4000/2023-12-13/anga"><![CDATA[<blockquote>
-  <p>Speak when you are angry, and you will make the best speech you will ever regret.</p>
-
-  <p>~ Ambrose Bierce</p>
-</blockquote>
-
-<p>You read that title right, “<em>Anga!</em>”. It reminded me of a short video clip from <a href="https://en.wikipedia.org/wiki/Steve_Harvey">Steve Harvey</a>, where he mocked someone for pronouncing the word “anger” as “anga”.</p>
-
-<p>Recently, a business partner of mine wrote an email to a renowned person in some industry, asking them for advice.</p>
-
-<p>Interestingly enough, he received an answer that differed from what he expected. The reply was full of anger and frustration, to the point my business partner replied apologising for having caused any distress (<em>he still did not know where this was coming from</em>) and explaining more about what he was after.</p>
-
-<p>This event prompted a conversation between us partners.</p>
-
-<p>Here is my take on replying to unsolicited emails:</p>
-
-<ul>
-  <li>Don’t reply in anger (<em>even if the mail made you angry for some unknown reason</em>).</li>
-  <li>Instead, wait till it passes or don’t reply at all.</li>
-  <li>Always be polite.</li>
-  <li>If you are not interested in what the other person is offering, let them know (<em>politely</em>).</li>
-  <li>It’s always better to reply than to keep silent (<em>you know how you feel when someone doesn’t answer your emails, calls, messages, etc.</em>).</li>
-</ul>
-
-<p>If you wonder how the story with the angry mailer ended, he apologised (<em>in his way</em>) and clarified where he was coming from… which could be a different blog post, so I’m leaving that for tomorrow…</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="musings" /><category term="emotions" /><summary type="html"><![CDATA[Speak when you are angry, and you will make the best speech you will ever regret. ~ Ambrose Bierce]]></summary></entry></feed>
+<p><strong>P.S.</strong>: <em>If you are currently coaching teams and would like to be coached to become better at what you do, you can always <a href="https://calendly.com/ecomba/free-consultation">reach out to me</a>, and we’ll figure something out</em>.</p>]]></content><author><name>Enrique Comba Riepenhausen</name><email>hello@ecomba.pro</email></author><category term="coaching" /><category term="work" /><summary type="html"><![CDATA[The only person you are destined to become is the person you decide to be. ~ Ralph Waldo Emerson]]></summary></entry></feed>
